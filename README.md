@@ -2,9 +2,9 @@
 
 Quadro interativo de relações em processos envolvendo Lula, empreiteiras, sítio de Atibaia, triplex e José Dirceu.
 
-- [Abrir o site](https://hilthsama-ia.github.io/dossie-conexoes-lava-jato/)
-- [Dossiê completo em PDF](https://hilthsama-ia.github.io/dossie-conexoes-lava-jato/dossie-completo.pdf)
-- [Quadro de relações em PDF](https://hilthsama-ia.github.io/dossie-conexoes-lava-jato/quadro-relacoes.pdf)
+- [Abrir o site](https://lavajatointerativa.com.br/)
+- [Dossiê completo em PDF](https://lavajatointerativa.com.br/dossie-completo.pdf)
+- [Quadro de relações em PDF](https://lavajatointerativa.com.br/quadro-relacoes.pdf)
 
 Selecione uma fotografia, escolha um fio e siga a cadeia. As fichas abrem perguntas específicas e explicações até os documentos citados e a consulta oficial do processo. Os portais judiciais abrem em outra aba, pois alguns impedem incorporação em outros sites. O acesso a peças pode exigir autenticação ou estar sujeito a sigilo.
 
@@ -21,3 +21,9 @@ Os testes de navegação foram executados em simulação de DOM: seleção, apro
 ## Imagens e fontes
 
 Créditos e licenças específicos estão no site, no PDF e em `src/assets/manifest.json`. Fotos, marcas e documentos de terceiros mantêm seus direitos próprios; não há licença geral de redistribuição desses materiais. Algumas imagens jornalísticas estão identificadas com reutilização não confirmada. A marca Nova Engevix é posterior ao período dos fatos; imagens de contexto são rotuladas.
+
+## Publicação na Hostinger e SEO
+
+O domínio principal é `lavajatointerativa.com.br`. O pacote de hospedagem contém a página interativa, cinco guias HTML indexáveis, dois PDFs, imagem social de 1200 × 630, favicon, sitemap, robots e regras de redirecionamento HTTPS. Os arquivos em `src/` são mantidos no GitHub e não precisam ser enviados à hospedagem.
+
+`python src/seo.py` atualiza os metadados e os guias. O Google Search Console depende da verificação do domínio; envio de sitemap e pedido de indexação não garantem inclusão ou posição nos resultados.

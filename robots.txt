@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /src/
+
+Sitemap: https://lavajatointerativa.com.br/sitemap.xml
