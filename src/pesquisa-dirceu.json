@@ -1,0 +1,39 @@
+{
+  "pessoa": "José Dirceu",
+  "verificado_em": "2026-10-28",
+  "alerta": "Condenações históricas da Lava Jato foram anuladas ou alcançadas por prescrição. Não apresentá-las como condenações hoje válidas. Mensalão é processo separado; indulto extinguiu punibilidade, não apagou a condenação por corrupção ativa.",
+  "mensalao": {
+    "pena": "Inicialmente 10 anos e 10 meses: 7 anos e 11 meses por corrupção ativa e 2 anos e 11 meses por formação de quadrilha. Absolvição da quadrilha em 27/02/2014 deixou 7 anos e 11 meses.",
+    "desfecho": "Em 17/10/2016, Barroso declarou extinta a punibilidade aplicando indulto natalino do Decreto 8.615/2015, após parecer favorável da PGR.",
+    "fontes": ["https://noticias.stf.jus.br/postsnoticias/acao-penal-470-plenario-rejeita-embargos-de-jose-dirceu/", "https://noticias.stf.jus.br/postsnoticias/ap-470-seis-ministros-absolvem-reus-do-crime-de-quadrilha/", "https://noticias.stf.jus.br/postsnoticias/indulto-extingue-a-punibilidade-de-jose-dirceu-na-ap-470/"]
+  },
+  "custodia": {
+    "metodo": "Diferença civil entre datas, excluindo o dia final; não é cálculo oficial da execução penal. Não soma dias de domiciliar aos de estabelecimento prisional, nem duplica períodos sobrepostos.",
+    "periodos": [
+      {"inicio":"2013-11-15","fim":"2014-11-04","dias":354,"tipo":"Estabelecimento prisional; cumprimento da condenação no mensalão, regime semiaberto."},
+      {"inicio":"2014-11-04","fim":"2015-08-03","dias":272,"tipo":"Regime aberto cumprido em casa, descrito nas notícias como prisão domiciliar; mensalão."},
+      {"inicio":"2015-08-03","fim":"2017-05-03","dias":639,"tipo":"Estabelecimento prisional; prisão preventiva na Lava Jato. Soltura com cautelares e tornozeleira."},
+      {"inicio":"2018-05-18","fim":"2018-06-27","dias":40,"tipo":"Estabelecimento prisional; execução provisória após segunda instância na Lava Jato; STF suspendeu execução."},
+      {"inicio":"2019-05-17","fim":"2019-11-08","dias":175,"tipo":"Estabelecimento prisional; execução provisória no caso Apolo Tubulars. Soltura após mudança de entendimento do STF sobre execução antes do trânsito em julgado."}
+    ],
+    "soma_lava_jato_dias":854,
+    "soma_mensalao_e_lava_jato_estabelecimento_dias":1208,
+    "resumo_seguro":"Cerca de 2 anos e 4 meses em estabelecimento prisional pela Lava Jato; somado o período inicial do mensalão, cerca de 3 anos e 4 meses. Domiciliar e cautelares devem aparecer separadamente. Não significa que cumpriu integralmente as penas nominais.",
+    "fontes":["https://www.cnnbrasil.com.br/politica/entre-prisoes-e-habeas-corpus-veja-quantos-dias-jose-dirceu-ficou-preso-pela-operacao-lava-jato/","https://www1.folha.uol.com.br/poder/2014/11/1543153-dirceu-comeca-a-cumprir-pena-em-prisao-domiciliar.shtml","https://noticias.stf.jus.br/postsnoticias/ministro-nega-pedido-de-indulto-de-jose-dirceu-na-ap-470/","https://atarde.com.br/politica/dirceu-tera-de-usar-tornozeleira-eletronica-decide-justica-972468","https://www.trf4.jus.br/trf4/controlador.php?acao=noticia_visualizar&id_noticia=14463"]
+  },
+  "lava_jato": [
+    {"caso":"Engevix / Petrobras / JD Consultoria","processo":"5045241-84.2015.4.04.7000","historico":"Sentença de 2016: 23 anos e 3 meses; TRF4 elevou em 2017 a 30 anos e 9 meses. Evitar somar penas de diferentes fases como se fossem penas simultaneamente vigentes.","fonte":"https://agenciabrasil.ebc.com.br/politica/noticia/2016-05/dirceu-e-condenado-23-anos-de-prisao-por-corrupcao-e-lavagem-de-dinheiro"},
+    {"caso":"Apolo Tubulars / Petrobras","processo":"5030883-80.2016.4.04.7000","historico":"Sentença de 2017: 11 anos e 3 meses; pena posteriormente reduzida pelo TRF4 a 8 anos, 10 meses e 28 dias. Em fevereiro de 2023 STJ excluiu lavagem, restando 4 anos e 7 meses por corrupção. Em maio de 2024 STF reconheceu prescrição da corrupção.","fontes":["https://www.trf4.jus.br/trf4/controlador.php?acao=noticia_visualizar&id_noticia=14463","https://www.cnnbrasil.com.br/politica/entenda-as-condenacoes-de-jose-dirceu-e-a-anulacao-das-penas-na-lava-jato/","https://noticias.stf.jus.br/postsnoticias/supremo-extingue-pena-do-ex-ministro-jose-dirceu-por-corrupcao-passiva/"]}
+  ],
+  "decisoes_recentes": [
+    {"data":"2024-05-21","fato":"STF extinguiu pena por corrupção passiva no caso Apolo Tubulars. Entre consumação em outubro de 2009 e denúncia em junho de 2016 transcorreram mais de seis anos; idade superior a 70 anos na sentença reduzia pela metade o prazo de 12 anos.","fonte":"https://noticias.stf.jus.br/postsnoticias/supremo-extingue-pena-do-ex-ministro-jose-dirceu-por-corrupcao-passiva/"},
+    {"data":"2024-10-28","publicacao":"2024-10-29","fato":"Gilmar Mendes, PET 12229, anulou atos processuais praticados por Moro em duas ações contra Dirceu, estendendo efeitos do reconhecimento de parcialidade. STF registra que Dirceu era mencionado 72 vezes na denúncia do triplex contra Lula, embora não fosse réu nesse processo. A decisão identificou ação coordenada de juiz e acusação prejudicial a julgamento imparcial.","fonte":"https://noticias.stf.jus.br/postsnoticias/stf-anula-atos-processuais-de-duas-acoes-penais-contra-jose-dirceu/"},
+    {"data":"2024-12-17","acordao_assinado":"2024-12-19","publicado":"2024-12-23","fato":"Quinta Turma do STJ, EDcl no AgRg no REsp 1774165/PR: extinção de punibilidade de Dirceu por prescrição; nulidade dos atos decisórios e competência eleitoral para os fatos com possível conexão eleitoral. Atenção: data do julgamento na jurisprudência é 17/12; assinatura do acórdão é 19/12.","fonte":"https://processo.stj.jus.br/processo/julgamento/eletronico/documento/?documento_sequencial=289166597&documento_tipo=integra&peticao_numero=202200399937&publicacao_data=20241223&registro_numero=201802762201"}
+  ],
+  "relacoes_documentadas": [
+    {"relacao":"Lula","fato":"Dirceu foi ministro-chefe da Casa Civil no primeiro governo Lula, entre 2003 e 2005. Vínculo político e funcional é comprovado; não prova participação de Lula em cada acusação contra Dirceu.","fonte":"https://agenciabrasil.ebc.com.br/politica/noticia/2026-05/jose-dirceu-e-diagnosticado-com-linfoma-e-inicia-tratamento-em-sp"},
+    {"relacao":"Engevix, JD e Jamp","fato":"Notícia oficial do TRF4 de 2018 descreve a ação como referente a pagamentos da Engevix à JD Consultoria e à Jamp Engenheiros, empresa de Milton Pascowitch. A classificação criminal histórica precisa ser acompanhada das anulações posteriores.","fonte":"https://www.trf4.jus.br/trf4/controlador.php?acao=noticia_visualizar&id_noticia=13600"},
+    {"relacao":"Milton Pascowitch","fato":"A Câmara noticiou que, em depoimento à PF, Pascowitch declarou que Dirceu, pela JD, intermediou contratação da Engevix pela Petrobras na unidade de gás de Cacimbas. Apresentar como declaração do colaborador, não fato criminal definitivamente comprovado.","fonte":"https://www.camara.leg.br/noticias/470246-empresario-nega-influencia-em-contratos-com-fundos-de-previdencia"}
+  ],
+  "limites":"Não houve auditoria integral de todos os andamentos de 2025-2026. Busca encontrou decisão monocrática posterior no REsp 1774165 certificando trânsito e baixa; para uso detalhado, consultar inteiro teor e data no STJ. Não foi localizado novo encarceramento até a pesquisa. Datas de custódia vêm de cronologia jornalística corroborada parcialmente por fontes judiciais, não de certidão penitenciária. Prisão política na ditadura não integra estes totais."
+}

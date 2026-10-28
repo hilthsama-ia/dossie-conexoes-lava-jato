@@ -1,0 +1,1969 @@
+{
+  "sources": {
+    "stf2023": {
+      "title": "STF: nulidade dos sistemas da Odebrecht",
+      "url": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=513517",
+      "kind": "Fonte oficial",
+      "date": "06/09/2023"
+    },
+    "toffoli": {
+      "title": "RCL 43.007: íntegra da decisão de Dias Toffoli (135 páginas)",
+      "url": "https://www.stf.jus.br/arquivo/cms/noticiaNoticiaStf/anexo/RCL43007.pdf",
+      "kind": "Decisão judicial — PDF oficial do STF",
+      "date": "06/09/2023"
+    },
+    "anpr": {
+      "title": "ANPR: resposta à decisão sobre as provas da Odebrecht",
+      "url": "https://www.anpr.org.br/images/2023/09/nota_decisao_Odebrecht_06-09-2023_1.pdf",
+      "kind": "Manifestação da associação de procuradores",
+      "date": "06/09/2023"
+    },
+    "sistemas": {
+      "title": "MPF: ofício sobre obtenção dos sistemas e perícias",
+      "url": "https://www.migalhas.com.br/arquivos/2019/12/F32B964A4BC876_oficioMP.pdf",
+      "kind": "Manifestação do MPF — cópia pública",
+      "date": "2019"
+    },
+    "instituto": {
+      "title": "STF: encerramento de três ações contra Lula",
+      "url": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=502832",
+      "kind": "Fonte oficial",
+      "date": "22/02/2023"
+    },
+    "foro": {
+      "title": "STF: Fachin anula condenações e remete casos ao DF",
+      "url": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=461870",
+      "kind": "Fonte oficial",
+      "date": "08/03/2021"
+    },
+    "foro2": {
+      "title": "STF: Plenário confirma competência da Justiça Federal do DF",
+      "url": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=464566",
+      "kind": "Fonte oficial",
+      "date": "22/04/2021"
+    },
+    "suspeicao": {
+      "title": "STF: Segunda Turma reconhece parcialidade de Moro",
+      "url": "https://noticias.stf.jus.br/postsnoticias/2a-turma-reconhece-parcialidade-de-ex-juiz-sergio-moro-na-condenacao-de-lula-no-caso-triplex/",
+      "kind": "Fonte oficial",
+      "date": "23/03/2021"
+    },
+    "extensao": {
+      "title": "STF: extensão da suspeição ao sítio e aos imóveis do Instituto",
+      "url": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=468184",
+      "kind": "Fonte oficial",
+      "date": "24/06/2021"
+    },
+    "sitiosent": {
+      "title": "Sítio: sentença de Gabriela Hardt, posteriormente anulada (360 páginas)",
+      "url": "https://estaticog1.globo.com/2019/02/06/sentlula.pdf",
+      "kind": "Sentença anulada — cópia pública",
+      "date": "06/02/2019"
+    },
+    "sitioden": {
+      "title": "Sítio: denúncia do MPF (acusação, não sentença)",
+      "url": "https://www.gp1.com.br/media/uploads/2017/05/22/denuncia-lula-sitio.pdf",
+      "kind": "Peça acusatória — cópia pública",
+      "date": "22/05/2017"
+    },
+    "sitiotrf": {
+      "title": "TRF4: julgamento do sítio, posteriormente anulado",
+      "url": "https://www.trf4.jus.br/trf4/controlador.php?acao=noticia_visualizar&id_noticia=14914",
+      "kind": "Fonte oficial",
+      "date": "27/11/2019"
+    },
+    "sitiofim": {
+      "title": "Sítio: denúncia rejeitada e prescrição em Brasília",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2021/08/22/juiza-de-brasilia-rejeita-denuncia-contra-lula-sobre-sitio-de-atibaia.htm",
+      "kind": "Reportagem — UOL",
+      "date": "22/08/2021"
+    },
+    "sitiodef": {
+      "title": "Defesa nas alegações finais do caso do sítio",
+      "url": "https://agenciabrasil.ebc.com.br/justica/noticia/2019-01/nas-alegacoes-finais-lula-nega-ser-dono-do-sitio-de-atibaia",
+      "kind": "Agência Brasil",
+      "date": "07/01/2019"
+    },
+    "sitioepoca": {
+      "title": "Época: documentos, mensagens e depoimentos do sítio",
+      "url": "https://epoca.globo.com/politica/lava-jato/noticia/2017/05/provas-contra-lula-sitio-em-atibaia.html",
+      "kind": "Reportagem — Época",
+      "date": "2017"
+    },
+    "recibos": {
+      "title": "Folha: recibos de obras apreendidos na residência de Lula",
+      "url": "https://www1.folha.uol.com.br/poder/2016/03/1752577-recibos-de-obra-em-sitio-de-atibaia-estavam-no-apartamento-de-lula.shtml",
+      "kind": "Reportagem — Folha",
+      "date": "22/03/2016"
+    },
+    "emyr": {
+      "title": "Folha: depoimentos de executivos sobre sítio e terreno",
+      "url": "https://m.folha.uol.com.br/poder/2017/04/1877075-delatores-reforcam-suspeitas-contra-lula-em-caso-de-sitio-e-de-terreno.shtml",
+      "kind": "Reportagem — Folha",
+      "date": "20/04/2017"
+    },
+    "cozinha": {
+      "title": "Gazeta: elementos citados nas decisões do sítio",
+      "url": "https://www.gazetadopovo.com.br/republica/provas-contra-lula-descartadas-pela-justica-no-caso-do-sitio-de-atibaia/",
+      "kind": "Reportagem — Gazeta do Povo",
+      "date": "2021"
+    },
+    "triplexsent": {
+      "title": "Triplex: sentença de Moro, posteriormente anulada",
+      "url": "https://memoria.ebc.com.br/sites/_portalebc2014/files/atoms/files/sentenca_de_condenacao_de_lula12072017.pdf",
+      "kind": "Sentença anulada — cópia pública",
+      "date": "12/07/2017"
+    },
+    "triplexprovas": {
+      "title": "Folha: inventário das provas do triplex e respostas da defesa",
+      "url": "https://www1.folha.uol.com.br/poder/2018/01/1953488-veja-as-provas-que-foram-consideradas-na-condenacao-de-lula.shtml",
+      "kind": "Reportagem — Folha",
+      "date": "26/01/2018"
+    },
+    "triplexdef": {
+      "title": "UOL: depoimento de Lula sobre visita e desistência",
+      "url": "https://noticias.uol.com.br/politica/ultimas-noticias/2017/05/10/lava-jato-lula-presta-depoimento-a-moro-em-curitiba.htm",
+      "kind": "Reportagem — UOL",
+      "date": "10/05/2017"
+    },
+    "triplextrf": {
+      "title": "TRF4: condenação do triplex, posteriormente anulada",
+      "url": "https://www.trf4.jus.br/trf4/controlador.php?acao=noticia_visualizar&id_noticia=13418",
+      "kind": "Fonte oficial",
+      "date": "24/01/2018"
+    },
+    "stjpena": {
+      "title": "STJ: pena do triplex reduzida a 8 anos, 10 meses e 20 dias",
+      "url": "https://www.stj.jus.br/sites/portalp/Paginas/Comunicacao/Noticias/Quinta-Turma-reduz-pena-do-ex-presidente-Lula-para-oito-anos-e-dez-meses.aspx",
+      "kind": "Fonte oficial",
+      "date": "23/04/2019"
+    },
+    "triplexfim": {
+      "title": "Reuters: arquivamento definitivo do caso do triplex",
+      "url": "https://noticias.uol.com.br/ultimas-noticias/reuters/2022/01/28/justica-federal-arquiva-acao-contra-lula-sobre-triplex-no-guaruja.htm",
+      "kind": "Reuters / UOL",
+      "date": "28/01/2022"
+    },
+    "prescricao": {
+      "title": "Agência Brasil: prescrição do triplex e redução pela idade",
+      "url": "https://noticias.uol.com.br/ultimas-noticias/agencia-brasil/2022/01/28/justica-federal-arquiva-caso-do-triplex-contra-ex-presidente-lula.htm",
+      "kind": "Agência Brasil / UOL",
+      "date": "28/01/2022"
+    },
+    "mpfpre": {
+      "title": "MPF: manifestação pela prescrição no caso do triplex",
+      "url": "https://images.jota.info/wp-content/uploads/2021/12/lula-prescricao-triplex.pdf",
+      "kind": "Manifestação processual — cópia pública",
+      "date": "06/12/2021"
+    },
+    "soltura": {
+      "title": "STF: execução da pena somente após esgotamento dos recursos",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-decide-que-cumprimento-da-pena-deve-comecar-apos-esgotamento-de-recursos/",
+      "kind": "Fonte oficial",
+      "date": "07/11/2019"
+    },
+    "580": {
+      "title": "Agência Brasil: trajetória de Lula e 580 dias preso",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2022-12/lula-entra-para-historia-da-redemocratizacao-com-3o-mandato",
+      "kind": "Agência Brasil",
+      "date": "2022"
+    },
+    "doj": {
+      "title": "Departamento de Justiça dos EUA: admissão de culpa da Odebrecht e Braskem",
+      "url": "https://www.justice.gov/archives/opa/pr/odebrecht-and-braskem-plead-guilty-and-agree-pay-least-35-billion-global-penalties-resolve",
+      "kind": "Fonte oficial — EUA",
+      "date": "21/12/2016"
+    },
+    "dojdoc": {
+      "title": "EUA: acusação formal contra a Odebrecht",
+      "url": "https://www.justice.gov/archives/opa/press-release/file/919911/dl",
+      "kind": "Documento judicial — EUA",
+      "date": "2016"
+    },
+    "ilacus": {
+      "title": "MPF: denúncia sobre terreno para o Instituto Lula",
+      "url": "https://estaticog1.globo.com/2016/12/15/denuncialula.pdf",
+      "kind": "Peça acusatória — cópia pública",
+      "date": "15/12/2016"
+    },
+    "cpp": {
+      "title": "Código de Processo Penal: arts. 155, 157 e 158-A a 158-F",
+      "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del3689.htm",
+      "kind": "Legislação",
+      "date": ""
+    },
+    "mensalao": {
+      "title": "STF: indulto de José Dirceu na AP 470",
+      "url": "https://noticias.stf.jus.br/postsnoticias/indulto-extingue-a-punibilidade-de-jose-dirceu-na-ap-470/",
+      "kind": "Fonte oficial",
+      "date": "17/10/2016"
+    },
+    "quadrilha": {
+      "title": "STF: absolvição do crime de quadrilha na AP 470",
+      "url": "https://noticias.stf.jus.br/postsnoticias/ap-470-seis-ministros-absolvem-reus-do-crime-de-quadrilha/",
+      "kind": "Fonte oficial",
+      "date": "27/02/2014"
+    },
+    "dirceupena": {
+      "title": "Agência Brasil: sentença de 23 anos e 3 meses contra Dirceu",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2016-05/dirceu-e-condenado-23-anos-de-prisao-por-corrupcao-e-lavagem-de-dinheiro",
+      "kind": "Agência Brasil",
+      "date": "2016"
+    },
+    "dirceutrf": {
+      "title": "TRF4: ação Engevix, JD e Jamp",
+      "url": "https://www.trf4.jus.br/trf4/controlador.php?acao=noticia_visualizar&id_noticia=13600",
+      "kind": "Fonte oficial",
+      "date": "2018"
+    },
+    "dirceucamara": {
+      "title": "Câmara: declaração de Milton Pascowitch",
+      "url": "https://www.camara.leg.br/noticias/470246-empresario-nega-influencia-em-contratos-com-fundos-de-previdencia",
+      "kind": "Fonte oficial",
+      "date": "2015"
+    },
+    "dirceutempo": {
+      "title": "CNN: cronologia das prisões de José Dirceu na Lava Jato",
+      "url": "https://www.cnnbrasil.com.br/politica/entre-prisoes-e-habeas-corpus-veja-quantos-dias-jose-dirceu-ficou-preso-pela-operacao-lava-jato/",
+      "kind": "Reportagem — CNN Brasil",
+      "date": "2024"
+    },
+    "dirceucasa": {
+      "title": "Folha: Dirceu passa a cumprir pena em casa",
+      "url": "https://www1.folha.uol.com.br/poder/2014/11/1543153-dirceu-comeca-a-cumprir-pena-em-prisao-domiciliar.shtml",
+      "kind": "Reportagem — Folha",
+      "date": "04/11/2014"
+    },
+    "apolo": {
+      "title": "TRF4: execução da pena de Dirceu no caso Apolo",
+      "url": "https://www.trf4.jus.br/trf4/controlador.php?acao=noticia_visualizar&id_noticia=14463",
+      "kind": "Fonte oficial",
+      "date": "2019"
+    },
+    "dirceupre": {
+      "title": "STF: prescrição da corrupção no caso Apolo Tubulars",
+      "url": "https://noticias.stf.jus.br/postsnoticias/supremo-extingue-pena-do-ex-ministro-jose-dirceu-por-corrupcao-passiva/",
+      "kind": "Fonte oficial",
+      "date": "21/05/2024"
+    },
+    "dirceuanula": {
+      "title": "STF: anulação dos atos de duas ações contra Dirceu",
+      "url": "https://noticias.stf.jus.br/postsnoticias/stf-anula-atos-processuais-de-duas-acoes-penais-contra-jose-dirceu/",
+      "kind": "Fonte oficial",
+      "date": "29/10/2024"
+    },
+    "dirceustj": {
+      "title": "STJ: EDcl no AgRg no REsp 1.774.165/PR",
+      "url": "https://processo.stj.jus.br/processo/julgamento/eletronico/documento/?documento_sequencial=289166597&documento_tipo=integra&peticao_numero=202200399937&publicacao_data=20241223&registro_numero=201802762201",
+      "kind": "Acórdão judicial",
+      "date": "17/12/2024; publicação 23/12/2024"
+    },
+    "dirceuhist": {
+      "title": "CNN: evolução das penas de José Dirceu",
+      "url": "https://www.cnnbrasil.com.br/politica/entenda-as-condenacoes-de-jose-dirceu-e-a-anulacao-das-penas-na-lava-jato/",
+      "kind": "Reportagem — CNN Brasil",
+      "date": "2024"
+    },
+    "autos0": {
+      "title": "Sítio de Atibaia — consulta processual TRF4",
+      "url": "https://consulta.trf4.jus.br/trf4/controlador.php?acao=consulta_processual_resultado_pesquisa&chkMostrarBaixados=1&selForma=NU&selOrigem=TRF&txtValor=50213653220174047000",
+      "kind": "Consulta processual oficial",
+      "date": "Consulta em 28/10/2026"
+    },
+    "autos1": {
+      "title": "Triplex — consulta processual TRF4",
+      "url": "https://consulta.trf4.jus.br/trf4/controlador.php?acao=consulta_processual_resultado_pesquisa&chkMostrarBaixados=1&selForma=NU&selOrigem=TRF&txtValor=50465129420164047000",
+      "kind": "Consulta processual oficial",
+      "date": "Consulta em 28/10/2026"
+    },
+    "autos2": {
+      "title": "Decisão de Dias Toffoli sobre provas Odebrecht — 06/09/2023",
+      "url": "https://www.stf.jus.br/arquivo/cms/noticiaNoticiaStf/anexo/RCL43007.pdf",
+      "kind": "Documento judicial oficial",
+      "date": "Consulta em 28/10/2026"
+    },
+    "autos3": {
+      "title": "Consulta processual STF — HC 164493",
+      "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=5581966",
+      "kind": "Consulta processual oficial",
+      "date": "Consulta em 28/10/2026"
+    },
+    "autos4": {
+      "title": "Extensão no HC164493 — decisão Gilmar Mendes para outras ações de Lula",
+      "url": "https://www.stf.jus.br/arquivo/cms/noticiaNoticiaStf/anexo/HC164493.pdf",
+      "kind": "Documento judicial oficial",
+      "date": "Consulta em 28/10/2026"
+    },
+    "autos5": {
+      "title": "Consulta processual STF — PET12229 José Dirceu",
+      "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=6856737",
+      "kind": "Consulta processual oficial",
+      "date": "Consulta em 28/10/2026"
+    },
+    "autos6": {
+      "title": "Decisão de Gilmar Mendes — anulação de atos contra José Dirceu",
+      "url": "https://noticias-stf-wp-prd.s3.sa-east-1.amazonaws.com/wp-content/uploads/wpallimport/uploads/2024/10/29103746/Decisao_monocratica_decisao_final.PET-12229.pdf",
+      "kind": "Documento judicial oficial",
+      "date": "Consulta em 28/10/2026"
+    },
+    "autos7": {
+      "title": "EDcl no AgRg no REsp1774165 — acórdão publicado em 23/12/2024",
+      "url": "https://processo.stj.jus.br/processo/julgamento/eletronico/documento/?documento_sequencial=289166597&documento_tipo=integra&peticao_numero=202200399937&publicacao_data=20241223&registro_numero=201802762201",
+      "kind": "Documento judicial oficial",
+      "date": "Consulta em 28/10/2026"
+    },
+    "autos8": {
+      "title": "Decisão monocrática sobre trânsito em julgado e baixa — DJEN07/08/2026",
+      "url": "https://scon.stj.jus.br/SCON/SearchBRS?b=DTXT&livre=%2217957+388657036%22+INPATH%28COD%29&p=false",
+      "kind": "Documento judicial oficial",
+      "date": "Consulta em 28/10/2026"
+    },
+    "rclportal": {
+      "title": "STF · RCL 43.007 · consulta processual",
+      "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=5990778",
+      "kind": "Consulta processual oficial",
+      "date": "Consulta em 28/10/2026"
+    },
+    "hcforo": {
+      "title": "STF · HC 193.726 · competência dos processos de Lula",
+      "url": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=6043118",
+      "kind": "Consulta processual oficial",
+      "date": "Consulta em 28/10/2026"
+    }
+  },
+  "chapters": [
+    {
+      "id": "leitura",
+      "title": "1. Como ler este quadro sem perder o que cada ligação significa",
+      "lead": "O mapa reúne relações pessoais, empresariais, políticas, materiais e alegadas. Todas continuam visíveis, inclusive as atingidas por nulidades.",
+      "parts": [
+        [
+          "Uma linha não é um veredito",
+          "Se A conhece B e B pagou C, não se segue automaticamente que A ordenou o pagamento. O quadro deixa você seguir esse caminho, mas cada fio informa exatamente a proposição sustentada: cargo, pagamento, obra, depoimento ou hipótese acusatória. Uma relação social é um dado; participação consciente em corrupção é uma conclusão adicional que exige demonstração própria."
+        ],
+        [
+          "O carimbo tem um objeto específico",
+          "“PROVA INVALIDADA” marca os dados dos sistemas alcançados pela decisão identificada. “CONDENAÇÃO ANULADA” marca a perda de eficácia da decisão condenatória; não afirma que todas as fotografias, notas fiscais e lembranças das testemunhas foram demonstradas falsas. “ACUSAÇÃO CONTESTADA” registra uma hipótese que não será transformada em fato apenas porque aparece ligada por um fio vermelho."
+        ],
+        [
+          "O recorte e suas limitações",
+          "Este dossiê detalha os principais conjuntos mencionados na conversa: sítio Santa Bárbara, triplex, sistemas da Odebrecht, Instituto Lula e processos de José Dirceu. Não é a reprodução integral de todos os autos da Lava Jato. A pesquisa foi realizada em 28/10/2026; os marcos documentados têm suas próprias datas. Não houve auditoria integral de todos os andamentos de 2025–2026, nem perícia independente nos arquivos originais. Ausência de atualização aqui não certifica ausência de novo andamento."
+        ]
+      ],
+      "sources": []
+    },
+    {
+      "id": "esquema",
+      "title": "2. O esquema empresarial e a ligação que a acusação precisava demonstrar",
+      "lead": "A existência de pagamentos ilícitos da Odebrecht tem documentação própria. A responsabilidade individual de Lula precisava de um caminho adicional de prova.",
+      "parts": [
+        [
+          "O que a empresa admitiu",
+          "Em dezembro de 2016, a Odebrecht admitiu culpa nos Estados Unidos em acordo coordenado com autoridades de outros países. O Departamento de Justiça descreveu aproximadamente US$ 788 milhões em subornos entre 2001 e 2016, em vários países, operacionalizados por uma estrutura separada da contabilidade regular. A existência desse mecanismo não depende apenas de uma acusação brasileira contra Lula. O documento norte-americano, porém, não é uma condenação criminal individual dele."
+        ],
+        [
+          "Onde entra a Petrobras",
+          "Contratos de grandes obras eram o contexto de parte das investigações. A tese acusatória do sítio conectava empreiteiras contratadas pela Petrobras, acertos de vantagens com agentes e partidos e reformas destinadas a Lula. Para avaliá-la, é preciso perguntar: qual contrato, qual pagamento, qual responsável, qual destinatário e qual evidência liga uma ponta à outra? O dinheiro de uma obra ou o relacionamento com um executivo, isoladamente, não responde a todas essas perguntas."
+        ],
+        [
+          "Por que o vínculo com a Petrobras importava duas vezes",
+          "Havia uma questão material — se a vantagem era propina relacionada à função pública — e outra de competência — se aquele processo cabia ao juízo de Curitiba responsável pelo núcleo Petrobras. O STF entendeu que os casos de Lula não tinham a relação direta necessária para tramitar ali. Isso alterou o foro e a validade dos atos; não é, por si, uma perícia que demonstra que a reforma existiu ou não existiu."
+        ]
+      ],
+      "sources": [
+        "doj",
+        "dojdoc",
+        "sitiotrf",
+        "foro"
+      ]
+    },
+    {
+      "id": "sitio",
+      "title": "3. Sítio Santa Bárbara: propriedade, uso, obras e vantagem alegada",
+      "lead": "“De quem era no registro?”, “quem usava?” e “quem pagou a reforma?” são perguntas diferentes.",
+      "parts": [
+        [
+          "A propriedade e o uso",
+          "O imóvel em Atibaia era registrado em nome de Fernando Bittar e Jonas Suassuna. A investigação examinou o uso frequente pela família de Lula e a hipótese de que reformas pagas por terceiros o beneficiavam. A defesa afirmou que ele não era proprietário. A distinção importa: alguém pode receber uma vantagem em imóvel alheio, mas frequentar a casa de um amigo não demonstra, sozinho, corrupção."
+        ],
+        [
+          "As três frentes de obras",
+          "A denúncia separou participação ligada a José Carlos Bumlai, intervenções da Odebrecht e cozinha/mobiliário da OAS. Entre os valores discutidos estavam R$ 150,5 mil na frente ligada a Bumlai, cerca de R$ 700 mil atribuídos à Odebrecht e R$ 170 mil à OAS. São recortes de imputações, não uma auditoria do custo total: não devem ser somados a estimativas de fases ou escopos diferentes como se fossem a mesma conta."
+        ],
+        [
+          "O que torna o conjunto mais informativo do que uma delação isolada",
+          "Recibos, fornecedores, comunicações, pessoas que executaram obras e registros de utilização permitem examinar partes distintas da narrativa. A pergunta decisiva é se são fontes independentes. Se duas notícias repetem o mesmo delator, há uma origem, não duas confirmações. Se a nota fiscal, a entrega do material e o pagamento bancário são verificáveis separadamente, a corroboração pode ser mais forte."
+        ],
+        [
+          "Da obra à imputação criminal",
+          "Demonstrar que uma empreiteira custeou melhorias é diferente de demonstrar que Lula as solicitou ou aceitou conscientemente como vantagem indevida em razão do cargo. A acusação sustentou essa passagem; a defesa a contestou. A sentença de Gabriela Hardt, de 06/02/2019, e a confirmação do TRF4 foram posteriormente anuladas. Na retomada em Brasília, a denúncia foi rejeitada e houve reconhecimento de prescrição em relação a Lula. O detalhe das provas está nas fichas E01–E06."
+        ]
+      ],
+      "sources": [
+        "sitioden",
+        "sitiodef",
+        "sitioepoca",
+        "sitiotrf",
+        "sitiofim"
+      ]
+    },
+    {
+      "id": "triplex",
+      "title": "4. Triplex: a hipótese de benefício sem transferência formal",
+      "lead": "Este caso era centrado na OAS. Não deve ser explicado como se dependesse apenas dos sistemas da Odebrecht.",
+      "parts": [
+        [
+          "O caminho imobiliário",
+          "O empreendimento passou da Bancoop à OAS. Documentos de adesão, reserva de unidade, visitas e obras foram examinados para sustentar que o triplex estava destinado à família de Lula. Na documentação antiga aparece a unidade 174; na identificação posterior, o triplex 164-A. Uma proposta rasurada e um termo sem assinatura foram pontos discutidos, não uma escritura em nome de Lula."
+        ],
+        [
+          "Acusação e resposta",
+          "A acusação interpretou a reserva e a reforma personalizada como entrega e ocultação de vantagem indevida. Lula afirmou que visitou o imóvel e desistiu da aquisição, negando tê-lo solicitado ou recebido. A ausência de registro em seu nome não impede, por definição, um crime de corrupção; ao mesmo tempo, não autoriza presumir aceitação clandestina. É necessário demonstrar a conduta, a intenção e o nexo exigido pela acusação."
+        ],
+        [
+          "O que aconteceu juridicamente",
+          "A pena mudou em cada recurso: 9 anos e 6 meses na sentença; 12 anos e 1 mês no TRF4; 8 anos, 10 meses e 20 dias no STJ. Essas são versões sucessivas da pena do mesmo caso. Não se somam. Em 2021, as condenações perderam efeito. Em janeiro de 2022, o caso foi arquivado por prescrição a pedido do MPF."
+        ]
+      ],
+      "sources": [
+        "triplexsent",
+        "triplexprovas",
+        "triplexdef",
+        "triplextrf",
+        "stjpena",
+        "triplexfim"
+      ]
+    },
+    {
+      "id": "sistemas",
+      "title": "5. Afinal, que sistemas eram Drousys e MyWebDay B?",
+      "lead": "Eram ferramentas internas da empreiteira, não um sistema do Judiciário que apertou um botão e “cancelou a prova”.",
+      "parts": [
+        [
+          "Drousys: comunicação e operação",
+          "O Drousys servia ao intercâmbio de mensagens e arquivos da estrutura de pagamentos, com usuários e codinomes. Pense em um ambiente reservado de comunicação: uma mensagem pode indicar uma instrução ou coordenação, mas exige contexto, identificação de quem escreveu e verificação do que efetivamente foi executado."
+        ],
+        [
+          "MyWebDay B: registro e controle financeiro",
+          "O MyWebDay B era ligado ao controle financeiro paralelo: lançamentos, alocações e informações sobre pagamentos. Não é a mesma coisa que o Drousys. Uma anotação financeira e uma conversa podem se corroborar, mas é preciso provar a integridade dos dois registros e a correspondência entre codinome e pessoa. Um apelido não identifica o beneficiário por magia."
+        ],
+        [
+          "Do servidor à prova apresentada ao juiz",
+          "O percurso que precisa ser documentado é: sistema original → extração ou cópia → transporte e entrega → armazenamento → análise pericial → arquivo apresentado no processo → acesso da defesa. Em cada passagem, deve ser possível saber quem teve o material, quando, o que fez e se alterou algo. A expressão “cadeia de custódia” se refere a esse histórico de preservação e manuseio."
+        ],
+        [
+          "O que um hash esclarece — e o que não esclarece",
+          "Um hash funciona como uma impressão digital matemática de um arquivo. Se duas cópias têm o mesmo hash calculado pelo mesmo método, isso é evidência de igualdade entre elas. Mas calcular um hash depois de uma alteração não prova que o material nunca foi alterado antes. Também não demonstra que a anotação era verdadeira no mundo real. Integridade do arquivo, autoria da anotação e veracidade do conteúdo são questões separadas."
+        ],
+        [
+          "O que a controvérsia efetivamente alcançava",
+          "A disputa não era apenas o nome de um software. Incluía acesso da defesa, origem e preservação dos arquivos, competência e imparcialidade na produção do material e procedimentos de cooperação internacional. As decisões precisam ser lidas com seus objetos: nulidade de dados, nulidade de atos e encerramento de uma ação não são expressões intercambiáveis."
+        ]
+      ],
+      "sources": [
+        "sistemas",
+        "ilacus",
+        "cpp",
+        "toffoli"
+      ]
+    },
+    {
+      "id": "invalidacao",
+      "title": "6. Quem invalidou, por quê e o que aconteceu depois",
+      "lead": "O mapa mantém esses elementos. O carimbo vermelho informa a decisão que impede seu uso judicial, sem certificar que todo conteúdo seja verdadeiro ou falso.",
+      "parts": [
+        [
+          "Primeiro problema: acesso e defesa",
+          "A Reclamação 43.007 começou com a controvérsia sobre o acesso da defesa de Lula ao material do acordo de leniência. A defesa contestava depender da seleção feita pela acusação ou pela empresa. Sem examinar a base, as cópias e as perícias, a parte acusada não consegue testar uma conclusão apoiada nesses dados. Isso é diferente de pedir acesso a diligências ainda em andamento ou a dados sem relação com o acusado."
+        ],
+        [
+          "A decisão de Lewandowski, em fevereiro de 2023",
+          "Ricardo Lewandowski encerrou três ações relativas à sede e a doações ao Instituto Lula e aos caças Saab-Gripen. O STF relatou contaminação das provas e indícios de inidoneidade dos dados, discutidos em parecer técnico da defesa e verificações da PF. A conclusão judicial foi de ausência de justa causa com o material remanescente. Não é correto resumir esses três encerramentos como se todos fossem simples prescrição."
+        ],
+        [
+          "A decisão de Toffoli, em setembro de 2023",
+          "Dias Toffoli estendeu a imprestabilidade dos elementos dos sistemas Drousys e MyWebDay B obtidos no contexto do acordo da Odebrecht, com alcance para todos. Citou a contaminação já reconhecida e resposta do DRCI, órgão do Ministério da Justiça, sobre ausência de registros de pedidos nas condições examinadas. Determinou que o juízo responsável avaliasse o arquivamento de cada investigação ou ação: não ordenou o encerramento automático de todo processo com o nome Odebrecht."
+        ],
+        [
+          "A contestação que também precisa aparecer",
+          "A ANPR discordou da conclusão sobre cooperação internacional. Disse que a empresa entregou uma cópia no Brasil e que outra foi solicitada formalmente à Suíça para comparação. Indicou pedido de 17/05/2016, envio pelo DRCI em 03/06/2016, resposta de 28/09/2017 e laudo PF 0335/2018. É a posição pública da associação de procuradores; não é uma decisão que revoga a do STF. A divergência está preservada, com documentos para conferir."
+        ],
+        [
+          "O que seria necessário para arbitrar a divergência técnica",
+          "Uma conclusão pericial independente exigiria os arquivos efetivamente usados, imagens das mídias, hashes, registros de extração e transferência, laudos completos e correspondências da cooperação. Este trabalho explica a controvérsia e documenta a decisão; não afirma ter feito essa perícia. “O tribunal excluiu” é um fato sobre o processo. “O arquivo foi falsificado por determinada pessoa” é outra afirmação e requer prova própria."
+        ]
+      ],
+      "sources": [
+        "toffoli",
+        "instituto",
+        "stf2023",
+        "anpr"
+      ]
+    },
+    {
+      "id": "foroexplica",
+      "title": "7. Mudança de foro, suspeição, prescrição: três mecanismos diferentes",
+      "lead": "Curitiba e Brasília são lugares de primeira instância. A remessa de uma para outra não é uma subida de instância.",
+      "parts": [
+        [
+          "Competência: qual juízo pode julgar",
+          "Em 08/03/2021, Edson Fachin reconheceu que os casos não tinham a ligação direta necessária com o núcleo Petrobras para tramitar na 13ª Vara Federal de Curitiba. O Plenário confirmou a anulação e fixou o DF como destino. Foram atingidos atos decisórios, inclusive recebimento da denúncia e condenações. A possibilidade de aproveitar atos de instrução teria de ser examinada no juízo competente, à luz das demais nulidades."
+        ],
+        [
+          "Suspeição: quem julga precisa ser imparcial",
+          "Em 23/03/2021, a Segunda Turma reconheceu a parcialidade de Sergio Moro no caso do triplex. A decisão considerou condutas concretas, entre elas condução coercitiva, interceptações e divulgação de material, e o contexto da atuação do juiz. Em 24/06/2021, Gilmar Mendes estendeu efeitos ao sítio e aos imóveis do Instituto Lula. A sentença do sítio foi assinada por Gabriela Hardt, mas o problema atingia atos anteriores de Moro; trocar o signatário da sentença não corrigiria automaticamente a instrução."
+        ],
+        [
+          "Prescrição: o prazo estatal para punir",
+          "A prescrição depende do crime, da pena considerada, das datas e dos marcos que interrompem ou suspendem a contagem. Nos casos tratados, a regra relativa à idade superior a 70 anos na data da sentença reduzia o prazo pela metade. Quando atos que interrompiam a prescrição são invalidados, a conta pode mudar. Não é simplesmente “o processo chegou a Brasília e o tempo começou a correr do zero”."
+        ],
+        [
+          "A sequência correta para Lula",
+          "2018: prisão por execução provisória no triplex. 2019: soltura após a mudança geral sobre execução antes do trânsito em julgado. 2021: anulações por competência e parcialidade; rejeição da denúncia e prescrição no sítio. 2022: prescrição e arquivamento do triplex. 2023: decisões sobre os sistemas da Odebrecht e outras ações. Uma decisão de 2023 não pode ser a causa cronológica da soltura de 2019."
+        ],
+        [
+          "“Saiu impune” e “foi absolvido” não substituem a descrição",
+          "É possível avaliar politicamente os resultados, mas o relatório usa os termos verificáveis: anulação, prescrição, rejeição da denúncia, trancamento e indulto. Prescrição impede a punição naquele caso; não é julgamento afirmativo de que o fato nunca existiu. Anulação remove a condenação; não permite continuar tratando a pessoa como condenada válida naquele processo."
+        ]
+      ],
+      "sources": [
+        "foro",
+        "foro2",
+        "suspeicao",
+        "extensao",
+        "prescricao",
+        "mpfpre",
+        "soltura",
+        "sitiofim",
+        "triplexfim"
+      ]
+    },
+    {
+      "id": "dirceu",
+      "title": "8. José Dirceu: relação política, mensalão e Lava Jato",
+      "lead": "O nome correto é José Dirceu. Sua história judicial não é uma única pena nem um único período de prisão.",
+      "parts": [
+        [
+          "A ligação com Lula",
+          "Dirceu chefiou a Casa Civil no primeiro governo Lula, entre 2003 e 2005. O vínculo político e funcional é direto. As acusações da Lava Jato contra ele envolveram outras cadeias, como Engevix, Petrobras, JD Consultoria e o operador Milton Pascowitch. Esse caminho é exibido, mas não se cria uma ligação de Dirceu com o pagamento da cozinha do sítio sem uma fonte específica."
+        ],
+        [
+          "Mensalão: condenação e indulto",
+          "Na AP 470, a pena remanescente foi de 7 anos e 11 meses por corrupção ativa, após absolvição do crime de quadrilha em 2014. Em 17/10/2016, Luís Roberto Barroso declarou extinta a punibilidade por indulto. Indulto é perdão da pena segundo os critérios de um decreto; não equivale à anulação do processo nem à declaração de que o condenado não praticou o fato."
+        ],
+        [
+          "Engevix / JD: penas históricas e desfecho",
+          "Uma sentença de 2016 fixou 23 anos e 3 meses; o TRF4 elevou a pena para 30 anos e 9 meses em 2017. Em outubro de 2024, Gilmar Mendes anulou atos de Moro em duas ações contra Dirceu, reconhecendo efeitos da parcialidade. Em dezembro de 2024, o STJ reconheceu prescrição no REsp 1.774.165/PR, com discussão de competência eleitoral. Os números de 2016 e 2017 são históricos, não penas vigentes para cumprir hoje."
+        ],
+        [
+          "Apolo Tubulars: outra ação",
+          "A pena de 11 anos e 3 meses foi reduzida no TRF4 para 8 anos, 10 meses e 28 dias. Após decisão do STJ em 2023, restaram 4 anos e 7 meses por corrupção. Em maio de 2024, o STF reconheceu a prescrição dessa imputação. Somar todas essas versões produziria um total fictício: são etapas de um mesmo processo, separadas do caso Engevix."
+        ],
+        [
+          "Quanto tempo ficou efetivamente preso",
+          "A tabela de custódia reconstrói períodos públicos. Na Lava Jato, são aproximadamente 854 dias em estabelecimento prisional; somado o período inicial do mensalão, aproximadamente 1.208 dias. O período de regime aberto cumprido em casa aparece separado. A conta é civil, com exclusão do dia final de cada intervalo, não um atestado da vara de execução com remições, detrações e todos os ajustes legais."
+        ]
+      ],
+      "sources": [
+        "mensalao",
+        "quadrilha",
+        "dirceupena",
+        "dirceutrf",
+        "dirceucamara",
+        "dirceuanula",
+        "dirceustj",
+        "apolo",
+        "dirceuhist",
+        "dirceupre",
+        "dirceutempo",
+        "dirceucasa"
+      ]
+    },
+    {
+      "id": "avaliacao",
+      "title": "9. Se tudo fosse admitido, o conjunto condenaria “sem sombra de dúvida”?",
+      "lead": "Admissibilidade, confiabilidade e suficiência são três perguntas, não três nomes para a mesma coisa.",
+      "parts": [
+        [
+          "O cenário hipotético pedido",
+          "Mesmo incluindo todos os elementos invalidados como pistas para visualizar relações, não se pode presumir que cada lançamento esteja correto, que cada delator diga a verdade ou que cada codinome identifique a pessoa apontada. Para testar a hipótese acusatória, o mapa preserva esses elementos e suas fontes. O carimbo não some ao entrar no cenário hipotético."
+        ],
+        [
+          "O que as antigas condenações demonstram",
+          "Juízes e desembargadores consideraram o conjunto suficiente para condenar naquela tramitação; no triplex, o STJ também manteve a condenação enquanto reduzia a pena. Isso é relevante para compreender a força atribuída à acusação na época. Mas decisões anuladas não são um substituto para um novo julgamento válido nem prova independente da própria conclusão que adotaram."
+        ],
+        [
+          "A cadeia que precisa estar completa",
+          "Para sustentar a responsabilidade individual, é preciso passar de fatos materiais — obra, visita, nota, mensagem, pagamento — a autoria, ciência, aceitação da vantagem e nexo criminal. Algumas provas ajudam muito a demonstrar a obra, mas pouco a demonstrar a intenção. Outras afirmam a intenção, mas dependem da credibilidade de um depoente interessado. A avaliação rigorosa identifica o papel de cada peça e as explicações alternativas."
+        ],
+        [
+          "O que este dossiê permite concluir",
+          "Havia conjuntos relevantes para acusação, com documentação material e testemunhos, especialmente sobre obras e destinação de benefícios. Eles justificam exame detalhado. Não é possível, a partir deste levantamento documental e sem reexaminar integralmente os autos e a confiabilidade das fontes primárias, certificar culpabilidade de Lula além de dúvida razoável. Tampouco é correto dizer que nunca existiu prova ou que anulação demonstra automaticamente fabricação de todas as evidências."
+        ]
+      ],
+      "sources": [
+        "stjpena",
+        "sitiotrf",
+        "suspeicao",
+        "stf2023"
+      ]
+    }
+  ],
+  "evidence": [
+    {
+      "id": "E01",
+      "title": "Registro do sítio e utilização pela família",
+      "case": "Sítio",
+      "type": "Documentos e testemunhos",
+      "content": "O registro identifica Fernando Bittar e Jonas Suassuna. Depoimentos e registros de utilização foram usados para descrever a frequência da família de Lula.",
+      "claim": "A acusação sustentou que as melhorias beneficiavam Lula, independentemente de título formal.",
+      "limit": "Propriedade registral, uso e recebimento consciente de propina são proposições diferentes. Uma pode ser verdadeira sem provar as outras.",
+      "status": "Condenação anulada; não há aqui declaração individual de falsidade de cada registro.",
+      "sources": [
+        "sitioepoca",
+        "sitiodef"
+      ],
+      "guide": {
+        "title": "Como separar dono, frequentador e beneficiário?",
+        "text": "Comece pelos nomes na matrícula do imóvel: esse é o registro de propriedade. Depois examine os registros de uso e o que cada testemunha presenciou. Por último, separe quem autorizou, quem pagou e quem aproveitou cada reforma. A tese contra Lula não dependia de uma escritura em seu nome: sustentava que ele recebeu benefícios nas obras. Por isso, a ausência do nome na matrícula e a presença da família no sítio respondem a perguntas diferentes. Na leitura dos autos, procure Bittar, Suassuna, utilização e benfeitorias."
+      }
+    },
+    {
+      "id": "E02",
+      "title": "Recibos encontrados na residência de Lula",
+      "case": "Sítio",
+      "type": "Documentos materiais",
+      "content": "Reportagem de março de 2016 descreve cerca de 130 recibos, somando R$ 66,1 mil, e nota de porta entregue em Atibaia vinculada a engenheiro. São valores daquele conjunto de documentos, não o custo total das obras.",
+      "claim": "A posse de papéis ligados à obra aproximaria a família da administração das melhorias.",
+      "limit": "Guardar um recibo não prova, sozinho, quem financiou a compra ou por qual motivo. É preciso cruzar fornecedor, entrega, pagamento e contexto.",
+      "status": "Material descrito no processo anulado; alcance individual de nulidade não periciado neste dossiê.",
+      "sources": [
+        "recibos"
+      ],
+      "guide": {
+        "title": "O que preciso conferir em cada recibo?",
+        "text": "Confira a data, o fornecedor, o produto ou serviço, o endereço de entrega, o nome do comprador e o comprovante de pagamento. Esses campos podem apontar para pessoas distintas. A notícia sobre a apreensão informa onde os papéis estavam; ela não oferece, por si só, a auditoria bancária de cada compra. Os cerca de R$ 66,1 mil referem-se ao conjunto descrito na reportagem, e não a um valor adicional que possa ser somado automaticamente ao custo das reformas. Procure o recibo individual nos anexos antes de atribuir uma transferência específica a alguém."
+      }
+    },
+    {
+      "id": "E03",
+      "title": "Engenheiros e R$ 700 mil atribuídos à Odebrecht",
+      "case": "Sítio",
+      "type": "Depoimento e execução de obra",
+      "content": "Emyr Diniz Costa Junior relatou recebimento de aproximadamente R$ 700 mil em espécie por meio do Setor de Operações Estruturadas para a obra.",
+      "claim": "A fala liga execução física e fonte empresarial de recursos. Emílio Odebrecht também relatou conversa com Lula sobre o sítio.",
+      "limit": "Depoimentos precisam ser confrontados com registros independentes. Relatar que a empresa pagou não resolve automaticamente ciência, aceitação ou contrapartida de Lula.",
+      "status": "Emyr foi absolvido pelo TRF4 em 27/11/2019 por insuficiência de prova da ciência sobre lavagem de capital ilícito. Condenação anulada; eventuais dados dos sistemas têm também o carimbo de imprestabilidade.",
+      "sources": [
+        "emyr",
+        "sitioepoca",
+        "sitiotrf"
+      ],
+      "guide": {
+        "title": "Onde o depoimento do engenheiro entra na cadeia?",
+        "text": "Há três ligações a examinar: o dinheiro entregue ao responsável pela obra; o serviço efetivamente executado; e a alegada aceitação da vantagem pelo beneficiário. Emyr descreveu a frente da Odebrecht e recursos em espécie. Emílio aparece em outro papel: a decisão empresarial e a conversa que atribuiu a Lula. São relatos de pessoas diferentes sobre etapas diferentes. Um pagamento em espécie deve ser cruzado com compras, fornecedores, datas e instruções, sem transformar o valor aproximado do depoimento numa transferência bancária documentada."
+      }
+    },
+    {
+      "id": "E04",
+      "title": "Cozinha e equipamentos pagos pela OAS",
+      "case": "Sítio",
+      "type": "Obra, comunicações e depoimentos",
+      "content": "O conjunto discutido nas decisões atribuía à OAS cerca de R$ 170 mil em cozinha e equipamentos. Paulo Gordilho e Léo Pinheiro figuram na narrativa da execução e contratação.",
+      "claim": "A tese era de reforma em benefício da família de Lula, com despesas suportadas pela empreiteira.",
+      "limit": "A existência do móvel, o pagamento pela OAS e a finalidade de propina precisam de demonstrações próprias. Documento em nome de terceiro exige contexto, não um rótulo automático de “laranja”.",
+      "status": "Paulo Gordilho foi absolvido pelo TRF4 em 27/11/2019. O resultado individual não deve ser confundido com a condenação então mantida de outros réus. Condenação anulada; não se confunde automaticamente com a nulidade dos sistemas Odebrecht.",
+      "sources": [
+        "cozinha",
+        "sitiotrf"
+      ],
+      "guide": {
+        "title": "Por que a cozinha não é a mesma prova dos sistemas?",
+        "text": "OAS e Odebrecht são empresas diferentes. A discussão sobre cozinha e equipamentos envolve contratação, execução, comunicações e relatos atribuídos a Paulo Gordilho e Léo Pinheiro. Drousys e MyWebDay B pertenciam à estrutura da Odebrecht. Portanto, é preciso identificar a origem de cada documento antes de aplicar o carimbo de prova invalidada. A sentença pode ter sido anulada por problemas do processo sem que o motivo seja a origem digital de uma nota da OAS. Procure cozinha, Gordilho, OAS e o fornecedor no material do sítio."
+      }
+    },
+    {
+      "id": "E05",
+      "title": "Bumlai e a primeira frente de reformas",
+      "case": "Sítio",
+      "type": "Imputação financeira",
+      "content": "A denúncia descreveu R$ 150,5 mil em repasses na frente ligada a Bumlai, com pagamentos e execução de serviços.",
+      "claim": "O MPF buscou vincular os recursos ao contexto de vantagens indevidas e benefícios a Lula.",
+      "limit": "Uma denúncia formaliza a tese da acusação; não é certificado de que cada transação tem a origem ilícita indicada. Deve-se verificar comprovante, remetente, destinatário e justificativa.",
+      "status": "Bumlai foi absolvido da lavagem pelo TRF4 em 27/11/2019; não deve ser apresentado como alguém cuja única saída foi a anulação do processo. Imputação de processo posteriormente anulado.",
+      "sources": [
+        "sitioden",
+        "sitiotrf"
+      ],
+      "guide": {
+        "title": "O que aconteceu com a acusação contra Bumlai?",
+        "text": "A denúncia e o resultado do julgamento precisam ser lidos separadamente. O MPF descreveu a frente de obras associada a Bumlai. No julgamento do TRF4 em 27/11/2019, Bumlai foi absolvido da imputação de lavagem de dinheiro. Portanto, sua presença neste fio não significa uma condenação vigente, nem autoriza dizer que o processo apenas terminou por anulação. O mapa conserva a participação alegada na obra e identifica o desfecho individual. Consulte também a seção Outros réus da notícia oficial, como roteiro para localizar o acórdão."
+      }
+    },
+    {
+      "id": "E06",
+      "title": "Agendas, mensagens, viagens e fornecedores",
+      "case": "Sítio",
+      "type": "Corroboração contextual",
+      "content": "Foram discutidos comunicações sobre a obra, anotações de executivos, registros de deslocamento e documentos de fornecedores.",
+      "claim": "Podem aproximar pessoas, datas, instruções e intervenções materiais.",
+      "limit": "Coincidência temporal não basta para imputar crime. Um registro de viagem demonstra deslocamento, não o conteúdo de uma conversa. Notícia que resume um documento não substitui exame do original.",
+      "status": "Conjunto histórico; não há carimbo individual indiscriminado em cada item.",
+      "sources": [
+        "sitiosent",
+        "sitioepoca"
+      ],
+      "guide": {
+        "title": "Como cruzar datas sem inventar uma ligação?",
+        "text": "Monte uma sequência com a data da mensagem, a data da viagem, a ordem ao fornecedor e a execução da obra. Anote também quem produziu cada registro e se ele é contemporâneo aos fatos ou uma lembrança em depoimento. Uma viagem pode situar alguém numa cidade, mas não reproduz o que foi dito numa reunião. Mensagens podem mostrar uma instrução, mas precisam do contexto anterior e posterior. Esta ficha reúne categorias de material; não afirma que todos os anexos de cada categoria tenham sido individualmente autenticados neste trabalho."
+      }
+    },
+    {
+      "id": "E07",
+      "title": "Proposta rasurada e termo sem assinatura",
+      "case": "Triplex",
+      "type": "Documento e perícia",
+      "content": "A sentença descreve a substituição de 174 por 141 numa proposta e um termo relativo à unidade 174 sem assinatura. A perícia não identificou autoria dos manuscritos nem momento exato da rasura.",
+      "claim": "A acusação usou a referência antiga ao triplex para sustentar a destinação do imóvel à família.",
+      "limit": "A rasura não equivale a recibo de propina. A interpretação deve enfrentar a tese de alteração da opção de compra, além da hipótese acusatória.",
+      "status": "Sentença anulada; rasura não deve ser descrita como falsificação provada pela defesa ou pela acusação.",
+      "sources": [
+        "triplexsent"
+      ],
+      "guide": {
+        "title": "O que a perícia resolveu sobre a rasura?",
+        "text": "O documento contém referências a unidades do empreendimento. A sentença descreveu a alteração de 174 para 141 e discutiu um termo sem assinatura. Identificar uma alteração no papel é diferente de identificar seu autor, sua data e sua finalidade. A leitura acusatória relacionou a referência ao triplex à destinação do imóvel. A leitura defensiva precisa ser examinada à luz da opção de compra e da desistência alegada. A perícia descrita não determinou autoria e momento exato da alteração; não complete essa lacuna com uma conclusão que o laudo não oferece."
+      }
+    },
+    {
+      "id": "E08",
+      "title": "Reserva, visitas e reforma do triplex",
+      "case": "Triplex",
+      "type": "Documentos, mensagens e testemunhos",
+      "content": "Planilhas indicavam reserva da unidade; visitas e comunicações sobre reformas integraram a acusação.",
+      "claim": "A leitura acusatória era de reserva e adaptação para Lula e Marisa, sem transferência formal para ocultar benefício.",
+      "limit": "Lula disse ter desistido da compra. É necessário distinguir visita de aceitação, personalização comercial de vantagem indevida e reserva interna de efetiva entrega.",
+      "status": "Condenação anulada; processo arquivado por prescrição.",
+      "sources": [
+        "triplexprovas",
+        "triplexdef",
+        "triplexfim"
+      ],
+      "guide": {
+        "title": "Que etapas ligariam uma visita ao recebimento de vantagem?",
+        "text": "A sequência a investigar é: reserva comercial, visita, escolha de modificações, contratação da reforma, pagamento e efetiva disponibilidade do imóvel. A acusação leu o conjunto como adaptação para o casal; Lula afirmou que não concluiu a aquisição. Uma visita isolada é compatível com avaliar uma compra. O argumento acusatório dependia de algo além dela, como a destinação e o custeio das intervenções. Na sentença histórica, compare o tratamento das planilhas, das comunicações e dos depoimentos com a resposta da defesa, em vez de ler somente a conclusão."
+      }
+    },
+    {
+      "id": "E09",
+      "title": "Dados extraídos de Drousys e MyWebDay B",
+      "case": "Odebrecht",
+      "type": "Dados eletrônicos",
+      "content": "Comunicações e registros financeiros associados à estrutura paralela da Odebrecht. São dois sistemas distintos, não um software judicial.",
+      "claim": "A acusação os usou para rastrear pagamentos, operadores e beneficiários indicados por codinomes.",
+      "limit": "Precisam de autenticidade, integridade, contexto e identificação segura. Validade hipotética não torna todo lançamento verdadeiro.",
+      "status": "PROVA INVALIDADA — RCL 43.007; decisão de 06/09/2023.",
+      "sources": [
+        "sistemas",
+        "stf2023",
+        "toffoli",
+        "anpr"
+      ],
+      "guide": {
+        "title": "Qual foi o percurso do arquivo até o juiz?",
+        "text": "Os sistemas eram da Odebrecht, não do tribunal. O percurso probatório envolve obter uma cópia dos servidores, registrar quem a entregou e recebeu, preservar a mídia, analisar os dados e permitir o contraditório. A RCL 43.007 discutiu inicialmente o acesso da defesa. A decisão de 06/09/2023 tratou da utilização do material dos sistemas, com fundamentos sobre obtenção, integridade e atuação processual. A ANPR contestou a leitura da cooperação internacional e apontou pedido formal e perícia. Os detalhes de cada posição aparecem nos ramos abaixo; este dossiê não examinou as mídias originais."
+      }
+    },
+    {
+      "id": "E10",
+      "title": "Terreno, doações e Instituto Lula",
+      "case": "Instituto",
+      "type": "Acusação e elementos do acordo",
+      "content": "As ações investigaram aquisição de terreno para sede e doações. A cadeia alegada passava por executivos da Odebrecht, interlocutores políticos e destinação de recursos.",
+      "claim": "O MPF sustentou vantagens indevidas; a existência de uma doação, isoladamente, não resolve se ela era lícita ou dissimulava propina.",
+      "limit": "Não se deve confundir a entidade Instituto Lula com o imóvel investigado ou presumir ilicitude de toda receita da instituição.",
+      "status": "Ações trancadas em 22/02/2023 por contaminação probatória e ausência de justa causa.",
+      "sources": [
+        "ilacus",
+        "instituto"
+      ],
+      "guide": {
+        "title": "Terreno, sede e doações são o mesmo fato?",
+        "text": "Não. Uma aquisição imobiliária proposta para sede e repasses registrados como doações são operações diferentes. A acusação procurou relacioná-las a vantagens indevidas; o Instituto é a entidade, não o próprio terreno. Ao seguir Odebrecht → Instituto → Lula, leia o que cada fio afirma: pagamento alegado, vínculo institucional ou decisão judicial. A notícia do STF sobre o encerramento de ações explica o resultado de 2023. A RCL 43.007 fornece o contexto da controvérsia probatória, mas não substitui os autos de todas as ações reunidas nesta ficha."
+      }
+    },
+    {
+      "id": "E11",
+      "title": "Admissão empresarial nos EUA",
+      "case": "Odebrecht",
+      "type": "Acordo e documentos judiciais",
+      "content": "A Odebrecht admitiu culpa em conspiração ligada ao pagamento de subornos; a estrutura de operações e pagamentos internacionais foi descrita pelas autoridades norte-americanas.",
+      "claim": "Corrobora a existência do mecanismo empresarial de corrupção.",
+      "limit": "Não condena individualmente Lula e não autentica, por si, qualquer arquivo específico apresentado numa ação brasileira.",
+      "status": "Documento estrangeiro consultado; não abrangido aqui por afirmação de nulidade individual.",
+      "sources": [
+        "doj",
+        "dojdoc"
+      ],
+      "guide": {
+        "title": "A admissão da empresa condenou os políticos do quadro?",
+        "text": "O documento norte-americano registra a posição e as obrigações da empresa naquele procedimento. Ele ajuda a entender a estrutura empresarial e os mecanismos de pagamentos. Para atribuir um crime a uma pessoa específica, porém, é necessário conferir se ela é individualmente identificada, qual conduta é descrita e o que foi efetivamente julgado. O acordo corporativo não substitui uma sentença brasileira contra Lula. Neste ramo, a última etapa oferece o documento original do Departamento de Justiça dos Estados Unidos; o portal do STF é um caminho separado, relativo às provas brasileiras."
+      }
+    },
+    {
+      "id": "E12",
+      "title": "Engevix, Jamp e JD Consultoria",
+      "case": "Dirceu",
+      "type": "Pagamentos e declarações",
+      "content": "A ação descreveu pagamentos da Engevix à JD e à Jamp, ligada a Milton Pascowitch; este atribuiu a Dirceu atuação na contratação da Engevix.",
+      "claim": "A acusação tratou os repasses como parte de vantagens em contratos da Petrobras.",
+      "limit": "É necessário separar prestação lícita de consultoria da hipótese de repasse de propina. O vínculo de Dirceu com Lula não transfere automaticamente a acusação de um para o outro.",
+      "status": "Atos de ações anulados em 2024; prescrição no REsp 1.774.165.",
+      "sources": [
+        "dirceutrf",
+        "dirceucamara",
+        "dirceuanula",
+        "dirceustj"
+      ],
+      "guide": {
+        "title": "Como distinguir Engevix → JD de Engevix → Jamp?",
+        "text": "JD Consultoria é a empresa associada a Dirceu. Jamp é a empresa ligada a Milton Pascowitch, citado como intermediário na narrativa acusatória. São destinatários distintos: para cada repasse, seria necessário identificar contrato, nota, data, valor e serviço alegado. O mapa resume esses caminhos sem inventar uma transferência única entre as pontas. O vínculo político Dirceu → Lula é outro fio e não prova que Lula recebeu os valores dessa ação. Para o desfecho, consulte a PET 12.229 no STF e o REsp 1.774.165 no STJ, que têm objetos próprios."
+      }
+    }
+  ],
+  "faq": [
+    [
+      "Se a prova foi anulada, ela era falsa?",
+      "Não necessariamente. A decisão pode tratar da obtenção, da preservação, do acesso da defesa, da competência ou da imparcialidade. Falsidade é outra questão. Também não vale a conclusão inversa: o conteúdo não pode ser presumido verdadeiro só porque o problema foi chamado de processual."
+    ],
+    [
+      "Por que guardar provas invalidadas no mapa?",
+      "Porque ajudam a entender o que foi alegado, quais caminhos a acusação seguiu e como o processo mudou. A inclusão é histórica e analítica; o carimbo permanece para impedir confusão com prova judicial utilizável."
+    ],
+    [
+      "O STF anulou a Lava Jato inteira de uma vez?",
+      "Não. As decisões aqui examinadas têm objetos diferentes: ações determinadas, atos de um juiz e dados de sistemas específicos. A decisão de 2023 exigiu análise do destino de cada ação pelo juízo responsável."
+    ],
+    [
+      "Lula foi preso pelo sítio?",
+      "O período de 07/04/2018 a 08/11/2019 decorreu da execução provisória da condenação do triplex. A sentença do sítio veio em fevereiro de 2019 e a confirmação pelo TRF4 em novembro, depois da soltura. Não se deve contar os 580 dias como cumprimento separado das duas penas."
+    ],
+    [
+      "Quanto tempo Lula pegaria ao todo?",
+      "As últimas penas históricas eram 8 anos, 10 meses e 20 dias no triplex e 17 anos, 1 mês e 10 dias no sítio. Não existe neste dossiê uma execução unificada válida para dizer quanto tempo ele efetivamente permaneceria preso. Recursos, progressão, detração e a posterior anulação impedem converter a soma aritmética em previsão de encarceramento."
+    ],
+    [
+      "Quem anulou foi “o sistema”?",
+      "Não. Há decisões identificadas: Fachin e o Plenário sobre competência; Segunda Turma e Gilmar Mendes sobre suspeição; Lewandowski e Toffoli sobre dados da Odebrecht e processos relacionados; juízo de Brasília sobre rejeição e prescrição. Drousys e MyWebDay B são os sistemas de origem dos dados, não autores das decisões."
+    ],
+    [
+      "Mudou para uma instância superior em Brasília e prescreveu?",
+      "A remessa foi para outro foro de primeira instância. Os recursos no TRF4, STJ e STF constituem trajetórias diferentes. A prescrição depende de prazos e marcos legais, inclusive dos efeitos das nulidades, e não apenas do endereço do processo."
+    ],
+    [
+      "Dirceu, Lula e Odebrecht tinham relações?",
+      "Sim, há vínculos políticos, cargos, contatos empresariais e relações investigadas documentados. O quadro distingue cada natureza. Para atribuir um crime específico, é preciso demonstrar a participação de cada pessoa naquele fato; proximidade política não substitui esse elo."
+    ],
+    [
+      "Por que não chamar todos de “comparsas”?",
+      "Porque isso afirmaria de saída participação conjunta em crime. Os nomes aparecem com seus papéis documentados: ministro, dirigente, empresário, proprietário, colaborador, juiz. Quando a acusação atribui uma conduta, o painel a apresenta como acusação e informa o resultado judicial."
+    ],
+    [
+      "Quais questões continuam sem solução neste levantamento?",
+      "A auditoria técnica das mídias originais, o alcance individual de todas as nulidades sobre cada documento dos autos e a conferência integral dos andamentos mais recentes. O site informa o que foi localizado e não inventa precisão onde seria necessário um exame adicional."
+    ]
+  ],
+  "timeline": [
+    {
+      "date": "2013-11-15",
+      "title": "Dirceu inicia prisão no mensalão",
+      "case": "Dirceu",
+      "text": "Início do período em estabelecimento prisional, seguido de regime aberto em casa em novembro de 2014.",
+      "sources": [
+        "dirceucasa"
+      ]
+    },
+    {
+      "date": "2015-08-03",
+      "title": "Dirceu preso preventivamente na Lava Jato",
+      "case": "Dirceu",
+      "text": "Novo fundamento e outro processo; não confundir com simples continuação da pena do mensalão.",
+      "sources": [
+        "dirceutempo"
+      ]
+    },
+    {
+      "date": "2016-10-17",
+      "title": "Indulto no mensalão",
+      "case": "Dirceu",
+      "text": "Extinção da punibilidade na AP 470; não revogava automaticamente a prisão em outro caso.",
+      "sources": [
+        "mensalao"
+      ]
+    },
+    {
+      "date": "2016-12-21",
+      "title": "Acordos e admissão de culpa da Odebrecht",
+      "case": "Odebrecht",
+      "text": "Marco empresarial internacional; não equivale a condenação individual de Lula.",
+      "sources": [
+        "doj"
+      ]
+    },
+    {
+      "date": "2017-07-12",
+      "title": "Triplex: sentença de 9 anos e 6 meses",
+      "case": "Triplex",
+      "text": "Condenação de Moro, posteriormente anulada.",
+      "sources": [
+        "triplexsent"
+      ]
+    },
+    {
+      "date": "2018-01-24",
+      "title": "TRF4 eleva pena para 12 anos e 1 mês",
+      "case": "Triplex",
+      "text": "Segunda instância confirma condenação; decisão posteriormente anulada.",
+      "sources": [
+        "triplextrf"
+      ]
+    },
+    {
+      "date": "2018-04-07",
+      "title": "Lula inicia prisão em Curitiba",
+      "case": "Triplex",
+      "text": "Execução provisória da pena; ainda havia recursos.",
+      "sources": [
+        "580"
+      ]
+    },
+    {
+      "date": "2019-02-06",
+      "title": "Sítio: 12 anos e 11 meses",
+      "case": "Sítio",
+      "text": "Sentença de Gabriela Hardt, posteriormente anulada.",
+      "sources": [
+        "sitiosent"
+      ]
+    },
+    {
+      "date": "2019-04-23",
+      "title": "STJ reduz pena do triplex",
+      "case": "Triplex",
+      "text": "8 anos, 10 meses e 20 dias, mantendo a condenação naquele momento.",
+      "sources": [
+        "stjpena"
+      ]
+    },
+    {
+      "date": "2019-11-07",
+      "title": "STF altera regra de início da execução",
+      "case": "Judiciário",
+      "text": "ADCs 43, 44 e 54: trânsito em julgado para executar pena; prisão preventiva continua possível com requisitos próprios.",
+      "sources": [
+        "soltura"
+      ]
+    },
+    {
+      "date": "2019-11-08",
+      "title": "Lula é solto após 580 dias",
+      "case": "Triplex",
+      "text": "Soltura anterior às anulações de 2021. Dirceu também saiu naquele contexto.",
+      "sources": [
+        "580",
+        "dirceutempo"
+      ]
+    },
+    {
+      "date": "2019-11-27",
+      "title": "TRF4 eleva pena no sítio",
+      "case": "Sítio",
+      "text": "17 anos, 1 mês e 10 dias; decisão posteriormente anulada.",
+      "sources": [
+        "sitiotrf"
+      ]
+    },
+    {
+      "date": "2021-03-08",
+      "title": "Fachin reconhece incompetência de Curitiba",
+      "case": "Judiciário",
+      "text": "Anulação de atos decisórios em quatro ações; Plenário confirma em abril.",
+      "sources": [
+        "foro",
+        "foro2"
+      ]
+    },
+    {
+      "date": "2021-03-23",
+      "title": "Moro considerado parcial no triplex",
+      "case": "Judiciário",
+      "text": "HC 164.493, Segunda Turma do STF.",
+      "sources": [
+        "suspeicao"
+      ]
+    },
+    {
+      "date": "2021-06-24",
+      "title": "Suspeição estendida a outras ações",
+      "case": "Judiciário",
+      "text": "Sítio e imóveis do Instituto Lula atingidos.",
+      "sources": [
+        "extensao"
+      ]
+    },
+    {
+      "date": "2021-08-21",
+      "title": "Denúncia do sítio rejeitada em Brasília",
+      "case": "Sítio",
+      "text": "Falta de demonstração de justa causa com provas válidas e prescrição em relação a Lula; notícia publicada no dia seguinte.",
+      "sources": [
+        "sitiofim"
+      ]
+    },
+    {
+      "date": "2022-01-27",
+      "title": "Triplex arquivado por prescrição",
+      "case": "Triplex",
+      "text": "Juízo do DF acolhe pedido do MPF; divulgação em 28/01.",
+      "sources": [
+        "prescricao",
+        "triplexfim"
+      ]
+    },
+    {
+      "date": "2023-02-22",
+      "title": "Três ações encerradas por Lewandowski",
+      "case": "Instituto",
+      "text": "Sede, doações e Saab-Gripen: contaminação probatória e ausência de justa causa.",
+      "sources": [
+        "instituto"
+      ]
+    },
+    {
+      "date": "2023-09-06",
+      "title": "Toffoli amplia nulidade dos dados da Odebrecht",
+      "case": "Odebrecht",
+      "text": "Decisão na RCL 43.007 com alcance geral para os elementos identificados.",
+      "sources": [
+        "stf2023"
+      ]
+    },
+    {
+      "date": "2024-05-21",
+      "title": "Prescrição no caso Apolo de Dirceu",
+      "case": "Dirceu",
+      "text": "STF extingue punibilidade da corrupção passiva.",
+      "sources": [
+        "dirceupre"
+      ]
+    },
+    {
+      "date": "2024-10-29",
+      "title": "Anulação de atos em duas ações contra Dirceu",
+      "case": "Dirceu",
+      "text": "Decisão de Gilmar Mendes de 28/10, tornada pública em 29/10.",
+      "sources": [
+        "dirceuanula"
+      ]
+    },
+    {
+      "date": "2024-12-17",
+      "title": "STJ reconhece prescrição para Dirceu",
+      "case": "Dirceu",
+      "text": "REsp 1.774.165; acórdão publicado em 23/12/2024.",
+      "sources": [
+        "dirceustj"
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "id": "lula",
+      "name": "Lula",
+      "role": "Presidente • personagem central",
+      "group": "pessoa",
+      "x": 700,
+      "y": 450,
+      "desc": "Luiz Inácio Lula da Silva. Os casos do triplex e sítio tiveram condenações posteriormente anuladas e desfechos próprios. Explore cada ligação sem transformar proximidade em culpa.",
+      "asset": "lula"
+    },
+    {
+      "id": "dirceu",
+      "name": "José Dirceu",
+      "role": "Casa Civil • 2003–2005",
+      "group": "pessoa",
+      "x": 250,
+      "y": 100,
+      "desc": "Ex-ministro de Lula. Mensalão e Lava Jato são processos distintos. As penas e períodos de custódia estão detalhados no dossiê.",
+      "asset": "dirceu"
+    },
+    {
+      "id": "palocci",
+      "name": "Antonio Palocci",
+      "role": "Interlocução política alegada",
+      "group": "pessoa",
+      "x": 700,
+      "y": 95,
+      "desc": "Ex-ministro citado na cadeia acusatória de interlocução com a Odebrecht. Seu papel aqui é atribuído às fontes, não a uma conclusão geral de culpa.",
+      "asset": "palocci"
+    },
+    {
+      "id": "emilio",
+      "name": "Emílio Odebrecht",
+      "role": "Dirigente do grupo",
+      "group": "pessoa",
+      "x": 1150,
+      "y": 105,
+      "desc": "Patriarca e dirigente da Odebrecht; prestou declarações sobre obras no sítio e contatos com Lula.",
+      "asset": "emilio"
+    },
+    {
+      "id": "marcelo",
+      "name": "Marcelo Odebrecht",
+      "role": "Ex-presidente da empresa",
+      "group": "pessoa",
+      "x": 1360,
+      "y": 290,
+      "desc": "Executivo da Odebrecht. As comunicações e relatos mencionados no mapa pertencem a contextos processuais específicos.",
+      "asset": "marcelo"
+    },
+    {
+      "id": "leo",
+      "name": "Léo Pinheiro",
+      "role": "Ex-presidente da OAS",
+      "group": "pessoa",
+      "x": 1080,
+      "y": 920,
+      "desc": "José Adelmário Pinheiro Filho. Seus depoimentos integraram os casos do sítio e do triplex.",
+      "asset": "leo"
+    },
+    {
+      "id": "bumlai",
+      "name": "José Carlos Bumlai",
+      "role": "Empresário • amigo de Lula",
+      "group": "pessoa",
+      "x": 1360,
+      "y": 710,
+      "desc": "Pecuarista associado à primeira frente de reformas na tese da acusação. No processo do sítio, o TRF4 o absolveu da imputação de lavagem em 2019.",
+      "asset": "bumlai"
+    },
+    {
+      "id": "bittar",
+      "name": "Fernando Bittar",
+      "role": "Proprietário registral",
+      "group": "pessoa",
+      "x": 1160,
+      "y": 515,
+      "desc": "Um dos proprietários registrais do sítio. Vínculo de propriedade não é sinônimo de participação em crime.",
+      "asset": "bittar"
+    },
+    {
+      "id": "jonas",
+      "name": "Jonas Suassuna",
+      "role": "Proprietário registral",
+      "group": "pessoa",
+      "x": 1360,
+      "y": 1000,
+      "desc": "Outro proprietário registral do imóvel; a linha descreve titularidade, sem imputar por isso conduta criminal.",
+      "asset": "jonas"
+    },
+    {
+      "id": "odebrecht",
+      "name": "Odebrecht",
+      "role": "Empreiteira • marca histórica",
+      "group": "empresa",
+      "x": 960,
+      "y": 290,
+      "desc": "Grupo empresarial cuja estrutura de pagamentos paralelos foi descrita em acordos e investigações. O mapa utiliza a identidade histórica para o período.",
+      "asset": "odebrecht"
+    },
+    {
+      "id": "oas",
+      "name": "OAS",
+      "role": "Empreiteira • marca histórica",
+      "group": "empresa",
+      "x": 720,
+      "y": 920,
+      "desc": "Empresa central no caso do triplex e na intervenção da cozinha do sítio. É distinta da Odebrecht.",
+      "asset": "oas"
+    },
+    {
+      "id": "petrobras",
+      "name": "Petrobras",
+      "role": "Contratos de grandes obras",
+      "group": "empresa",
+      "x": 520,
+      "y": 280,
+      "desc": "Companhia de economia mista. Contratos e agentes específicos aparecem nas investigações; isso não transforma todos os empregados em participantes.",
+      "asset": "petrobras"
+    },
+    {
+      "id": "pt",
+      "name": "PT",
+      "role": "Partido político",
+      "group": "empresa",
+      "x": 470,
+      "y": 690,
+      "desc": "Partido de Lula e Dirceu. A filiação e a hipótese de contas de propina são relações diferentes, com cores e fontes próprias.",
+      "asset": "pt"
+    },
+    {
+      "id": "sitio",
+      "name": "Sítio de Atibaia",
+      "role": "Santa Bárbara • obras e uso",
+      "group": "imovel",
+      "x": 970,
+      "y": 710,
+      "desc": "Imóvel frequentado pela família de Lula. O painel separa propriedade, utilização e financiamento das reformas.",
+      "asset": "sitio"
+    },
+    {
+      "id": "triplex",
+      "name": "Triplex do Guarujá",
+      "role": "Solaris • unidade 164-A",
+      "group": "imovel",
+      "x": 720,
+      "y": 1160,
+      "desc": "Apartamento objeto da ação que levou à prisão de Lula. Condenação anulada e processo posteriormente arquivado por prescrição.",
+      "asset": "triplex"
+    },
+    {
+      "id": "sistemas",
+      "name": "Drousys / MyWebDay B",
+      "role": "Dados • PROVA INVALIDADA",
+      "group": "documento",
+      "x": 1110,
+      "y": 1160,
+      "desc": "Comunicação e controle financeiro paralelo da Odebrecht. Elementos atingidos pela decisão de 06/09/2023 na RCL 43.007.",
+      "asset": "sistemas"
+    },
+    {
+      "id": "instituto",
+      "name": "Instituto Lula",
+      "role": "Sede e doações investigadas",
+      "group": "empresa",
+      "x": 460,
+      "y": 1060,
+      "desc": "Entidade relacionada às ações encerradas em 2023. A sede investigada, a entidade e cada doação não são a mesma coisa.",
+      "asset": "instituto_context"
+    },
+    {
+      "id": "engevix",
+      "name": "Engevix",
+      "role": "Empreiteira • caso Dirceu",
+      "group": "empresa",
+      "x": 70,
+      "y": 290,
+      "desc": "Empresa presente no caminho de pagamentos examinado no processo de José Dirceu.",
+      "asset": "engevix"
+    },
+    {
+      "id": "jd",
+      "name": "JD Consultoria",
+      "role": "Empresa ligada a Dirceu",
+      "group": "documento",
+      "x": 250,
+      "y": 490,
+      "desc": "Empresa que recebeu pagamentos examinados na ação. Qualificação de propina pertencia à acusação e a decisões depois atingidas por nulidades.",
+      "asset": "jd"
+    },
+    {
+      "id": "milton",
+      "name": "Milton Pascowitch",
+      "role": "Jamp • operador e colaborador",
+      "group": "pessoa",
+      "x": 65,
+      "y": 710,
+      "desc": "Suas declarações e os pagamentos envolvendo a Jamp integram uma cadeia específica da ação contra Dirceu.",
+      "asset": "milton"
+    }
+  ],
+  "edges": [
+    {
+      "id": "R01",
+      "a": "lula",
+      "b": "dirceu",
+      "kind": "politica",
+      "label": "Casa Civil",
+      "detail": "Dirceu foi ministro-chefe da Casa Civil de Lula (2003–2005). É relação funcional; não demonstra participação de Lula em cada acusação contra o ex-ministro.",
+      "sources": [
+        "dirceuanula"
+      ],
+      "evidence": [],
+      "status": "documentada"
+    },
+    {
+      "id": "R02",
+      "a": "lula",
+      "b": "pt",
+      "kind": "politica",
+      "label": "Vínculo partidário",
+      "detail": "Lula integra o PT. A filiação não é prova de crime.",
+      "sources": [
+        "sitiotrf"
+      ],
+      "evidence": [],
+      "status": "documentada"
+    },
+    {
+      "id": "R03",
+      "a": "dirceu",
+      "b": "pt",
+      "kind": "politica",
+      "label": "Vínculo político",
+      "detail": "Dirceu é um dirigente histórico do PT; a conexão política deve ser separada de fluxos financeiros específicos.",
+      "sources": [
+        "dirceupena"
+      ],
+      "evidence": [],
+      "status": "documentada"
+    },
+    {
+      "id": "R04",
+      "a": "lula",
+      "b": "sitio",
+      "kind": "uso",
+      "label": "Uso pela família",
+      "detail": "A utilização da propriedade foi examinada por documentos e testemunhos. A defesa negava propriedade e corrupção.",
+      "sources": [
+        "sitioepoca",
+        "sitiodef"
+      ],
+      "evidence": [
+        "E01"
+      ],
+      "status": "documentada"
+    },
+    {
+      "id": "R05",
+      "a": "bittar",
+      "b": "sitio",
+      "kind": "uso",
+      "label": "Propriedade registral",
+      "detail": "Fernando Bittar figura como proprietário registral do imóvel.",
+      "sources": [
+        "sitioepoca"
+      ],
+      "evidence": [
+        "E01"
+      ],
+      "status": "documentada"
+    },
+    {
+      "id": "R06",
+      "a": "jonas",
+      "b": "sitio",
+      "kind": "uso",
+      "label": "Propriedade registral",
+      "detail": "Jonas Suassuna figura como proprietário registral. Esta linha não imputa participação em obra ilícita.",
+      "sources": [
+        "sitioepoca"
+      ],
+      "evidence": [
+        "E01"
+      ],
+      "status": "documentada"
+    },
+    {
+      "id": "R07",
+      "a": "bumlai",
+      "b": "sitio",
+      "kind": "obra",
+      "label": "Primeira frente de obras",
+      "detail": "A denúncia atribuiu a Bumlai participação financeira nas reformas; os valores e documentos devem ser lidos no contexto da imputação. No julgamento de 27/11/2019, Bumlai foi absolvido da lavagem pelo TRF4. A frente de obras alegada e o resultado penal individual são informações distintas.",
+      "sources": [
+        "sitioden",
+        "sitiotrf"
+      ],
+      "evidence": [
+        "E05"
+      ],
+      "status": "acusacao"
+    },
+    {
+      "id": "R08",
+      "a": "lula",
+      "b": "bumlai",
+      "kind": "politica",
+      "label": "Amizade / proximidade",
+      "detail": "Relação pessoal mencionada na investigação. Não demonstra, por si, ciência de pagamentos ilícitos.",
+      "sources": [
+        "sitioepoca"
+      ],
+      "evidence": [],
+      "status": "documentada"
+    },
+    {
+      "id": "R09",
+      "a": "odebrecht",
+      "b": "sitio",
+      "kind": "obra",
+      "label": "Reformas atribuídas",
+      "detail": "Depoimentos de engenheiros e documentos ligaram a empresa às reformas. O significado criminal para Lula permaneceu objeto de disputa.",
+      "sources": [
+        "emyr",
+        "sitiosent"
+      ],
+      "evidence": [
+        "E02",
+        "E03",
+        "E06"
+      ],
+      "status": "anulada"
+    },
+    {
+      "id": "R10",
+      "a": "oas",
+      "b": "sitio",
+      "kind": "obra",
+      "label": "Cozinha e equipamentos",
+      "detail": "Frente de aproximadamente R$ 170 mil discutida no caso.",
+      "sources": [
+        "cozinha"
+      ],
+      "evidence": [
+        "E04"
+      ],
+      "status": "anulada"
+    },
+    {
+      "id": "R11",
+      "a": "emilio",
+      "b": "odebrecht",
+      "kind": "politica",
+      "label": "Dirigência",
+      "detail": "Emílio era dirigente do grupo empresarial.",
+      "sources": [
+        "emyr"
+      ],
+      "evidence": [],
+      "status": "documentada"
+    },
+    {
+      "id": "R12",
+      "a": "marcelo",
+      "b": "odebrecht",
+      "kind": "politica",
+      "label": "Presidência executiva",
+      "detail": "Marcelo ocupou a presidência da empresa. Cargo não é prova de participação em cada ato.",
+      "sources": [
+        "sitiosent"
+      ],
+      "evidence": [],
+      "status": "documentada"
+    },
+    {
+      "id": "R13",
+      "a": "emilio",
+      "b": "lula",
+      "kind": "depoimento",
+      "label": "Relato de conversa",
+      "detail": "Emílio relatou conversa sobre a obra no sítio; é uma declaração atribuída ao depoente, não gravação da conversa.",
+      "sources": [
+        "sitioepoca"
+      ],
+      "evidence": [
+        "E03"
+      ],
+      "status": "declaracao"
+    },
+    {
+      "id": "R14",
+      "a": "leo",
+      "b": "oas",
+      "kind": "politica",
+      "label": "Presidência",
+      "detail": "Léo Pinheiro foi presidente da OAS.",
+      "sources": [
+        "stjpena"
+      ],
+      "evidence": [],
+      "status": "documentada"
+    },
+    {
+      "id": "R15",
+      "a": "leo",
+      "b": "lula",
+      "kind": "depoimento",
+      "label": "Depoimentos acusatórios",
+      "detail": "Suas declarações foram utilizadas para sustentar solicitação e destinação de benefícios; exigem avaliação com a corroboração e a defesa.",
+      "sources": [
+        "cozinha",
+        "triplexprovas"
+      ],
+      "evidence": [
+        "E04",
+        "E08"
+      ],
+      "status": "declaracao"
+    },
+    {
+      "id": "R16",
+      "a": "oas",
+      "b": "triplex",
+      "kind": "obra",
+      "label": "Reserva e reformas",
+      "detail": "Documentos e comunicações da OAS integraram a tese de reserva e adaptação do imóvel.",
+      "sources": [
+        "triplexprovas"
+      ],
+      "evidence": [
+        "E07",
+        "E08"
+      ],
+      "status": "anulada"
+    },
+    {
+      "id": "R17",
+      "a": "triplex",
+      "b": "lula",
+      "kind": "acusacao",
+      "label": "Destinação como propina alegada",
+      "detail": "Acusação: benefício aceito e ocultado. Defesa: visita e desistência de compra. Condenação anulada; caso prescrito.",
+      "sources": [
+        "triplexdef",
+        "triplexfim"
+      ],
+      "evidence": [
+        "E08"
+      ],
+      "status": "anulada"
+    },
+    {
+      "id": "R18",
+      "a": "odebrecht",
+      "b": "petrobras",
+      "kind": "financeiro",
+      "label": "Contratos / esquema empresarial",
+      "detail": "O grupo foi contratado para obras; documentos dos EUA descrevem pagamentos corruptos no contexto empresarial, sem condenar Lula individualmente.",
+      "sources": [
+        "dojdoc"
+      ],
+      "evidence": [
+        "E11"
+      ],
+      "status": "documentada"
+    },
+    {
+      "id": "R19",
+      "a": "oas",
+      "b": "petrobras",
+      "kind": "financeiro",
+      "label": "Contratos examinados",
+      "detail": "Contratos foram parte do contexto acusatório dos casos OAS; sua ligação com a vantagem imputada a Lula exige prova específica.",
+      "sources": [
+        "triplextrf"
+      ],
+      "evidence": [
+        "E08"
+      ],
+      "status": "acusacao"
+    },
+    {
+      "id": "R20",
+      "a": "odebrecht",
+      "b": "sistemas",
+      "kind": "financeiro",
+      "label": "Estrutura de pagamentos",
+      "detail": "Os sistemas estavam associados à estrutura de pagamentos paralelos. Dados usados no Brasil receberam a decisão de imprestabilidade.",
+      "sources": [
+        "sistemas",
+        "stf2023"
+      ],
+      "evidence": [
+        "E09"
+      ],
+      "status": "invalidada"
+    },
+    {
+      "id": "R21",
+      "a": "sistemas",
+      "b": "palocci",
+      "kind": "acusacao",
+      "label": "Interlocução atribuída",
+      "detail": "Peça acusatória relacionou Palocci a tratativas com a Odebrecht. A ligação não deve ser lida como autenticação de todos os registros ou codinomes.",
+      "sources": [
+        "ilacus",
+        "stf2023"
+      ],
+      "evidence": [
+        "E09",
+        "E10"
+      ],
+      "status": "invalidada"
+    },
+    {
+      "id": "R22",
+      "a": "palocci",
+      "b": "lula",
+      "kind": "politica",
+      "label": "Relação de governo",
+      "detail": "Palocci foi ministro de Lula. A interlocução política é distinta da atribuição de participação em vantagens indevidas.",
+      "sources": [
+        "ilacus"
+      ],
+      "evidence": [],
+      "status": "documentada"
+    },
+    {
+      "id": "R23",
+      "a": "odebrecht",
+      "b": "instituto",
+      "kind": "acusacao",
+      "label": "Sede / doações investigadas",
+      "detail": "Hipótese de vantagens indevidas em terreno e doações; ações encerradas por contaminação probatória e ausência de justa causa.",
+      "sources": [
+        "ilacus",
+        "instituto"
+      ],
+      "evidence": [
+        "E10"
+      ],
+      "status": "invalidada"
+    },
+    {
+      "id": "R24",
+      "a": "instituto",
+      "b": "lula",
+      "kind": "politica",
+      "label": "Entidade vinculada",
+      "detail": "Instituição vinculada ao ex-presidente; essa relação não torna ilícita toda atividade da entidade.",
+      "sources": [
+        "instituto"
+      ],
+      "evidence": [],
+      "status": "documentada"
+    },
+    {
+      "id": "R25",
+      "a": "dirceu",
+      "b": "jd",
+      "kind": "politica",
+      "label": "Empresa ligada",
+      "detail": "JD Consultoria integra a cadeia empresarial examinada no caso Dirceu.",
+      "sources": [
+        "dirceutrf"
+      ],
+      "evidence": [
+        "E12"
+      ],
+      "status": "documentada"
+    },
+    {
+      "id": "R26",
+      "a": "engevix",
+      "b": "jd",
+      "kind": "financeiro",
+      "label": "Pagamentos examinados",
+      "detail": "Repasses à JD constavam da ação; a classificação criminal histórica foi atingida por decisões posteriores.",
+      "sources": [
+        "dirceutrf",
+        "dirceustj"
+      ],
+      "evidence": [
+        "E12"
+      ],
+      "status": "anulada"
+    },
+    {
+      "id": "R27",
+      "a": "engevix",
+      "b": "milton",
+      "kind": "financeiro",
+      "label": "Jamp / pagamentos",
+      "detail": "Pagamentos envolvendo Jamp e declarações de Milton Pascowitch foram parte da investigação.",
+      "sources": [
+        "dirceutrf"
+      ],
+      "evidence": [
+        "E12"
+      ],
+      "status": "anulada"
+    },
+    {
+      "id": "R28",
+      "a": "milton",
+      "b": "dirceu",
+      "kind": "depoimento",
+      "label": "Intermediação atribuída",
+      "detail": "Pascowitch declarou que Dirceu intermediou contratação da Engevix pela Petrobras. Declaração deve ser identificada como tal.",
+      "sources": [
+        "dirceucamara"
+      ],
+      "evidence": [
+        "E12"
+      ],
+      "status": "declaracao"
+    },
+    {
+      "id": "R29",
+      "a": "engevix",
+      "b": "petrobras",
+      "kind": "financeiro",
+      "label": "Contratos de obras",
+      "detail": "Contratações da estatal aparecem no caso Engevix/Dirceu.",
+      "sources": [
+        "dirceucamara"
+      ],
+      "evidence": [
+        "E12"
+      ],
+      "status": "documentada"
+    }
+  ],
+  "stories": [
+    {
+      "title": "Sítio: siga as obras",
+      "text": "Comece pelo uso do sítio. Depois compare os proprietários e as três frentes de reformas.",
+      "edges": [
+        "R04",
+        "R05",
+        "R06",
+        "R07",
+        "R09",
+        "R10"
+      ]
+    },
+    {
+      "title": "Odebrecht: siga os dados",
+      "text": "Da empresa aos sistemas e à interlocução alegada. As linhas carimbadas continuam visíveis.",
+      "edges": [
+        "R18",
+        "R20",
+        "R21",
+        "R22",
+        "R23",
+        "R24"
+      ]
+    },
+    {
+      "title": "Triplex: siga a hipótese",
+      "text": "Da OAS à reforma e à destinação alegada. A negativa de Lula aparece na mesma ficha.",
+      "edges": [
+        "R14",
+        "R15",
+        "R16",
+        "R17"
+      ]
+    },
+    {
+      "title": "Dirceu: outra cadeia",
+      "text": "Casa Civil é o elo político. JD, Jamp e Engevix pertencem a uma cadeia processual própria.",
+      "edges": [
+        "R01",
+        "R25",
+        "R26",
+        "R27",
+        "R28",
+        "R29"
+      ]
+    }
+  ],
+  "penalties": [
+    [
+      "Lula",
+      "Triplex",
+      "9a 6m → 12a 1m → 8a 10m 20d",
+      "580 dias (07/04/2018–08/11/2019)",
+      "Condenações anuladas em 2021; prescrição e arquivamento em 2022.",
+      [
+        "triplextrf",
+        "stjpena",
+        "580",
+        "triplexfim"
+      ]
+    ],
+    [
+      "Lula",
+      "Sítio",
+      "12a 11m → 17a 1m 10d",
+      "Não atribuir os 580 dias a esta pena",
+      "Condenações anuladas; denúncia rejeitada e prescrição em 2021.",
+      [
+        "sitiotrf",
+        "sitiofim"
+      ]
+    ],
+    [
+      "José Dirceu",
+      "Mensalão / AP 470",
+      "10a 10m inicialmente; 7a 11m após absolvição de quadrilha",
+      "354 dias em estabelecimento; depois regime aberto em casa",
+      "Indulto em 2016, distinto de anulação.",
+      [
+        "quadrilha",
+        "mensalao",
+        "dirceucasa"
+      ]
+    ],
+    [
+      "José Dirceu",
+      "Engevix / JD",
+      "23a 3m → 30a 9m (histórico)",
+      "Custódia apresentada por períodos abaixo, sem repartir artificialmente dias entre ações",
+      "Nulidades e prescrição reconhecidas em 2024.",
+      [
+        "dirceupena",
+        "dirceuhist",
+        "dirceuanula",
+        "dirceustj"
+      ]
+    ],
+    [
+      "José Dirceu",
+      "Apolo Tubulars",
+      "11a 3m → 8a 10m 28d → 4a 7m",
+      "Período de 2019 na tabela abaixo",
+      "Prescrição da corrupção reconhecida em maio de 2024.",
+      [
+        "apolo",
+        "dirceuhist",
+        "dirceupre"
+      ]
+    ]
+  ],
+  "custody": {
+    "metodo": "Diferença civil entre datas, excluindo o dia final; não é cálculo oficial da execução penal. Não soma dias de domiciliar aos de estabelecimento prisional, nem duplica períodos sobrepostos.",
+    "periodos": [
+      {
+        "inicio": "2013-11-15",
+        "fim": "2014-11-04",
+        "dias": 354,
+        "tipo": "Estabelecimento prisional; cumprimento da condenação no mensalão, regime semiaberto."
+      },
+      {
+        "inicio": "2014-11-04",
+        "fim": "2015-08-03",
+        "dias": 272,
+        "tipo": "Regime aberto cumprido em casa, descrito nas notícias como prisão domiciliar; mensalão."
+      },
+      {
+        "inicio": "2015-08-03",
+        "fim": "2017-05-03",
+        "dias": 639,
+        "tipo": "Estabelecimento prisional; prisão preventiva na Lava Jato. Soltura com cautelares e tornozeleira."
+      },
+      {
+        "inicio": "2018-05-18",
+        "fim": "2018-06-27",
+        "dias": 40,
+        "tipo": "Estabelecimento prisional; execução provisória após segunda instância na Lava Jato; STF suspendeu execução."
+      },
+      {
+        "inicio": "2019-05-17",
+        "fim": "2019-11-08",
+        "dias": 175,
+        "tipo": "Estabelecimento prisional; execução provisória no caso Apolo Tubulars. Soltura após mudança de entendimento do STF sobre execução antes do trânsito em julgado."
+      }
+    ],
+    "soma_lava_jato_dias": 854,
+    "soma_mensalao_e_lava_jato_estabelecimento_dias": 1208,
+    "resumo_seguro": "Cerca de 2 anos e 4 meses em estabelecimento prisional pela Lava Jato; somado o período inicial do mensalão, cerca de 3 anos e 4 meses. Domiciliar e cautelares devem aparecer separadamente. Não significa que cumpriu integralmente as penas nominais.",
+    "fontes": [
+      "https://www.cnnbrasil.com.br/politica/entre-prisoes-e-habeas-corpus-veja-quantos-dias-jose-dirceu-ficou-preso-pela-operacao-lava-jato/",
+      "https://www1.folha.uol.com.br/poder/2014/11/1543153-dirceu-comeca-a-cumprir-pena-em-prisao-domiciliar.shtml",
+      "https://noticias.stf.jus.br/postsnoticias/ministro-nega-pedido-de-indulto-de-jose-dirceu-na-ap-470/",
+      "https://atarde.com.br/politica/dirceu-tera-de-usar-tornozeleira-eletronica-decide-justica-972468",
+      "https://www.trf4.jus.br/trf4/controlador.php?acao=noticia_visualizar&id_noticia=14463"
+    ]
+  },
+  "cases": {
+    "Sítio": {
+      "title": "Sítio Santa Bárbara, Atibaia",
+      "number": "5021365-32.2017.4.04.7000",
+      "court": "Justiça Federal / TRF4; decisões posteriores do STF",
+      "portal": "autos0",
+      "documents": [
+        "sitiosent",
+        "sitioden"
+      ],
+      "rulings": [
+        "hcforo",
+        "autos3",
+        "autos4"
+      ],
+      "chapters": [
+        2,
+        6
+      ],
+      "note": "A consulta do TRF4 é a tramitação histórica. A condenação de Lula foi anulada e o caso seguiu para Brasília. Uma consulta pública não garante acesso a todas as peças; alguns eventos podem exigir login."
+    },
+    "Triplex": {
+      "title": "Triplex do Guarujá",
+      "number": "5046512-94.2016.4.04.7000",
+      "court": "Justiça Federal / TRF4; decisões posteriores do STF",
+      "portal": "autos1",
+      "documents": [
+        "triplexsent",
+        "mpfpre"
+      ],
+      "rulings": [
+        "hcforo",
+        "autos3"
+      ],
+      "chapters": [
+        3,
+        6
+      ],
+      "note": "A página do TRF4 registra a tramitação histórica. A sentença não é uma condenação vigente: houve anulação e, depois, prescrição. A cópia da sentença é oferecida separadamente da consulta oficial."
+    },
+    "Odebrecht": {
+      "title": "Sistemas e acordo da Odebrecht",
+      "number": "RCL 43.007 / DF · 0101589-48.2020.1.00.0000",
+      "court": "Supremo Tribunal Federal",
+      "portal": "rclportal",
+      "documents": [
+        "toffoli",
+        "sistemas",
+        "anpr",
+        "dojdoc"
+      ],
+      "rulings": [
+        "autos2"
+      ],
+      "chapters": [
+        4,
+        5
+      ],
+      "note": "A reclamação trata do acesso e da utilização das provas; não é a ação penal do sítio. No portal do STF, consulte Andamentos e Decisões. O PDF oficial de 06/09/2023 está disponível separadamente."
+    },
+    "Instituto": {
+      "title": "Instituto Lula e controvérsia probatória",
+      "number": "Ação de origem 5063130-17.2016.4.04.7000 · RCL 43.007 / DF",
+      "court": "Justiça Federal; reclamação no STF",
+      "portal": "rclportal",
+      "documents": [
+        "ilacus",
+        "toffoli"
+      ],
+      "rulings": [
+        "instituto",
+        "autos2"
+      ],
+      "chapters": [
+        5,
+        6
+      ],
+      "note": "O link final abre a RCL 43.007, decisão conexa sobre o material probatório. Não se apresenta essa reclamação como se fosse a íntegra de todas as ações sobre sede e doações."
+    },
+    "Dirceu": {
+      "title": "José Dirceu · Engevix / JD",
+      "number": "5045241-84.2015.4.04.7000 · PET 12.229 / DF · REsp 1.774.165 / PR",
+      "court": "Justiça Federal / STF / STJ",
+      "portal": "autos5",
+      "documents": [
+        "autos6",
+        "autos7",
+        "autos8"
+      ],
+      "rulings": [
+        "autos5",
+        "autos7"
+      ],
+      "chapters": [
+        7
+      ],
+      "note": "A PET 12.229 é o processo do STF sobre anulação dos atos. O REsp 1.774.165 é o recurso no STJ, com documento oficial próprio. Esses autos não são o mensalão nem a ação Apolo Tubulars."
+    }
+  }
+}
