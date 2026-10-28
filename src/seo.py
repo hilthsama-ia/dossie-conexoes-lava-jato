@@ -25,7 +25,7 @@ for p in [ROOT/'index.html',ROOT/'src/template.html']:
     s=re.sub(r'<style id="seo-guides-style">.*?</style>','',s,flags=re.S)
     s=re.sub(r'<title>.*?</title>','<title>'+TITLE+'</title>',s,count=1)
     s=s.replace('</head>',meta(TITLE,DESC)+guidecss+'</head>')
-    if 'id="guias"' not in s:s=s.replace('<section class="section" id="mapa">',guide+'<section class="section" id="mapa">')
+    if 'id="guias"' not in s:s=s.replace('<section class="section" id="explicacao">',guide+'<section class="section" id="explicacao">')
     s=s.replace('CONEXÕES / DOSSIÊ</div>','LAVA JATO / INTERATIVA</div>')
     p.write_text(s,encoding='utf-8')
 
